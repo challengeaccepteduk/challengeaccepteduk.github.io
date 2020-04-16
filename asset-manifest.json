@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.68bcf92d.chunk.css",
-    "main.js": "/static/js/main.4058f9f3.chunk.js",
-    "main.js.map": "/static/js/main.4058f9f3.chunk.js.map",
+    "main.css": "/static/css/main.918f721f.chunk.css",
+    "main.js": "/static/js/main.77dad2d0.chunk.js",
+    "main.js.map": "/static/js/main.77dad2d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2bb79808.js",
     "runtime-main.js.map": "/static/js/runtime-main.2bb79808.js.map",
     "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.bcc9438d.chunk.js": "/static/js/2.bcc9438d.chunk.js",
-    "static/js/2.bcc9438d.chunk.js.map": "/static/js/2.bcc9438d.chunk.js.map",
+    "static/js/2.8e8c1cdc.chunk.js": "/static/js/2.8e8c1cdc.chunk.js",
+    "static/js/2.8e8c1cdc.chunk.js.map": "/static/js/2.8e8c1cdc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b5b01fc5c76a0f6a8a46358bc7f1eee9.js": "/precache-manifest.b5b01fc5c76a0f6a8a46358bc7f1eee9.js",
+    "precache-manifest.d044d3c06069ff408ce16e103ddea178.js": "/precache-manifest.d044d3c06069ff408ce16e103ddea178.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.68bcf92d.chunk.css.map": "/static/css/main.68bcf92d.chunk.css.map",
-    "static/js/2.bcc9438d.chunk.js.LICENSE.txt": "/static/js/2.bcc9438d.chunk.js.LICENSE.txt",
+    "static/css/main.918f721f.chunk.css.map": "/static/css/main.918f721f.chunk.css.map",
+    "static/js/2.8e8c1cdc.chunk.js.LICENSE.txt": "/static/js/2.8e8c1cdc.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Ubuntu-R.7f0b42d1.ttf",
+    "static/media/aboutflow.png": "/static/media/aboutflow.e9bad2f3.png",
     "static/media/home-appscreen-1.png": "/static/media/home-appscreen-1.d405f32b.png",
     "static/media/home-appscreen-2.png": "/static/media/home-appscreen-2.fd357510.png",
     "static/media/home-appscreen-3.png": "/static/media/home-appscreen-3.7d78fe4b.png",
@@ -27,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.2bb79808.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.bcc9438d.chunk.js",
-    "static/css/main.68bcf92d.chunk.css",
-    "static/js/main.4058f9f3.chunk.js"
+    "static/js/2.8e8c1cdc.chunk.js",
+    "static/css/main.918f721f.chunk.css",
+    "static/js/main.77dad2d0.chunk.js"
   ]
 }
