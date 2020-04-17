@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e50d99935fd0801574b265ec8765846",
+    "revision": "313c956849eab96a85f3044fbf57dc1d",
     "url": "/index.html"
   },
   {
-    "revision": "aabe135f1a0ffd74dc4d",
+    "revision": "de272998080bda13b011",
     "url": "/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "33005d5bd764cfc9ce43",
-    "url": "/static/css/main.31d5a39c.chunk.css"
+    "revision": "9a9ea259c3db52979db2",
+    "url": "/static/css/main.ab018230.chunk.css"
   },
   {
-    "revision": "aabe135f1a0ffd74dc4d",
-    "url": "/static/js/2.ca3dad88.chunk.js"
+    "revision": "de272998080bda13b011",
+    "url": "/static/js/2.9be15bd7.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.ca3dad88.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9be15bd7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "33005d5bd764cfc9ce43",
-    "url": "/static/js/main.374b6168.chunk.js"
+    "revision": "9a9ea259c3db52979db2",
+    "url": "/static/js/main.70936a24.chunk.js"
   },
   {
     "revision": "02527ff3cdd07d1eeaa9",
@@ -38,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1c69bb4f3302d75e2ba7fb6e382524ce",
     "url": "/static/media/Steph.1c69bb4f.png"
-  },
-  {
-    "revision": "7f0b42d1d6a4d3e646c558185f6711ea",
-    "url": "/static/media/Ubuntu-R.7f0b42d1.ttf"
   },
   {
     "revision": "efaa51cbf44d3a31eb68e213c9012543",
@@ -78,5 +74,25 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6bb883bba4b9bd843a361ebe888ad0f1",
     "url": "/static/media/search.6bb883bb.png"
+  },
+  {
+    "revision": "03c831f7b9cdf705e0565484d568b6f6",
+    "url": "/static/media/ubuntu-v14-latin-regular.03c831f7.eot"
+  },
+  {
+    "revision": "1e926e228a9e2e1e77034f624211e2b4",
+    "url": "/static/media/ubuntu-v14-latin-regular.1e926e22.woff"
+  },
+  {
+    "revision": "3c51cf95e0cf5b2145510b36882a66ed",
+    "url": "/static/media/ubuntu-v14-latin-regular.3c51cf95.svg"
+  },
+  {
+    "revision": "5b23eeb3a32b30e91682d601535d2a89",
+    "url": "/static/media/ubuntu-v14-latin-regular.5b23eeb3.woff2"
+  },
+  {
+    "revision": "694f32f4f139e578f8303309a343cfa0",
+    "url": "/static/media/ubuntu-v14-latin-regular.694f32f4.ttf"
   }
 ]);
