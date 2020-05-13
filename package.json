@@ -20,10 +20,10 @@
   "homepage": "http://challengeaccepteduk.github.com/challengeaccepteduk.github.io",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && echo 'www.challengeacceptedapp.com' > ./build/CNAME",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -b master"
   },
   "eslintConfig": {
     "extends": "react-app"
