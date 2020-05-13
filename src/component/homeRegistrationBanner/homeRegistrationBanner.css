@@ -1,0 +1,39 @@
+.home-container{
+  /*padding: 10px;*/
+  background-color: #2A3746;
+  padding-bottom: 60px;
+
+}
+.active-tab{
+  color: #ffce2c;
+  padding: 10px;
+}
+.inactive-tab{
+  padding: 10px;
+  color: white;
+}
+
+.challenge-header {
+  color: #ffce2c;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 80px;
+}
+
+.challenge-subheader {
+  color: #ffce2c;
+  font-size: 33px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.register-button {
+  color: white;
+  background-color: #60bd98;
+  font-size: 35px;
+}
+.logo{
+  width: 80%
+}
+

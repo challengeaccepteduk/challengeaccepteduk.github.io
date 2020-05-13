@@ -1,0 +1,19 @@
+.email-container{
+  background-color: #2A3746;
+  padding: 100px 40px 50px;
+}
+.active-footer{
+  color: #ffce2c;
+  font-size: 25px;
+  text-align: left;
+}
+.launch-coming{
+  color: white;
+  font-size: 60px;
+  padding-top: -10px;
+  text-align: center;
+}
+.well-contact{
+  color: white;
+  font-size: 15px;
+}

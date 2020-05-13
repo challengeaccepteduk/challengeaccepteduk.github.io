@@ -1,0 +1,16 @@
+.footer-container{
+  /*padding: 10px;*/
+  background-color: #2A3746;
+  padding: 20px 30px 50px;
+}
+.active-footer-mobile{
+  color: #ffce2c;
+  font-size: 12px;
+  text-align: left;
+}
+.inactive-footer-mobile{
+  color: white;
+  font-size: 12px;
+  padding-top: -10px;
+  text-align: left;
+}

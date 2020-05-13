@@ -1,0 +1,33 @@
+.partner-features-container{
+  background-color: white;
+  padding: 60px 100px;
+
+}
+
+.screen-row{
+  padding-top: 50px;
+}
+
+.feature-divider{
+  height: 60px;
+}
+.partner-feature-text{
+  font-size: 25px;
+}
+.partner-feature-header{
+  padding-top:100px;
+  padding-bottom:200px;
+  font-size: 40px;
+  text-align: center;
+}
+.partner-feature-footer{
+  padding-top:200px;
+  padding-bottom:70px;
+  font-size: 40px;
+  text-align: center;
+}
+.partner-header-bold{
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+}
