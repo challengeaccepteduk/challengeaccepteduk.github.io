@@ -40,9 +40,8 @@ const HomeAppFeaturesMobile = () => {
         <Row className="divider-mobile"></Row>
         <Row>
           <Col>
-            <p className="feature-text-mobile">Discover challenges in the things
-              you love from Sport, Travel, Food, Fitness, Art & Culture and
-              more. Or create your own.</p>
+            <p className="feature-text-mobile">Discover challenges in the things you love from sport, travel,
+            health & fitness, food and more. Or create your own challenge.</p>
           </Col>
         </Row>
         <Row>
@@ -52,7 +51,7 @@ const HomeAppFeaturesMobile = () => {
         </Row>
         <Row>
           <Col>
-            <p className="feature-text-mobile">Set reminders that suit your schedule and receive notifications so you don't forget.</p>
+            <p className="feature-text-mobile">Set reminders notifications for your challenges based around your schedule.</p>
           </Col>
         </Row>
         <Row>
@@ -62,7 +61,8 @@ const HomeAppFeaturesMobile = () => {
         </Row>
         <Row>
           <Col>
-            <p className="feature-text-mobile">Add friends so you can share your challenge progress.</p>
+            <p className="feature-text-mobile">Add friends so you can share your progress and see what challenges
+            each other are completing. </p>
           </Col>
         </Row>
         <Row>
@@ -72,7 +72,7 @@ const HomeAppFeaturesMobile = () => {
         </Row>
         <Row>
           <Col>
-            <p className="feature-text-mobile">Create your own challenge based on your goals and set reminders to a schedule that suits you.</p>
+            <p className="feature-text-mobile">Create your own challenge from scratch based on your own personal goals. </p>
           </Col>
         </Row>
         <Row>

@@ -62,7 +62,7 @@ const HomeEmail = () => {
           </Col>
           <Col md={12}>
             <p className="well-contact">We will contact you with exclusive
-              access to our Beta test and product launch.</p>
+              access to our beta test and product launch.</p>
           </Col>
         </Row>
         <Row>

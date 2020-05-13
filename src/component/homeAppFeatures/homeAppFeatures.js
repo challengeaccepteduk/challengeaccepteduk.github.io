@@ -41,10 +41,10 @@ const HomeAppFeatures = () => {
             <p className="feature-text">Set<br/> reminders</p>
           </Col>
           <Col>
-            <p className="feature-text">Challenge<br/> Friends</p>
+            <p className="feature-text">Challenge<br/> friends</p>
           </Col>
           <Col>
-            <p className="feature-text">Create your<br/> own <br/> challenges
+            <p className="feature-text">Create your<br/> own challenges
             </p>
           </Col>
           <Col md={1}>
@@ -52,9 +52,9 @@ const HomeAppFeatures = () => {
         </Row>
         <Row className="screen-row">
           <Col>
-            <p className="feature-text-large-one">Discover challenges in the things
-              you love from Sport, Travel, Food, Fitness, Art & Culture and
-              more. Or create your own</p>
+            <p className="feature-text-large-one">Discover challenges in the things you love from sport,
+             travel, health & fitness, food and more.
+             Or create your own challenge.</p>
           </Col>
           <Col>
             <Row>
@@ -75,13 +75,15 @@ const HomeAppFeatures = () => {
             </Row>
           </Col>
           <Col>
-            <p className="feature-text-large-two">Set reminders that suit your schedule and receive notifications so you don't forget.</p>
+            <p className="feature-text-large-two">Set reminders notifications for your challenges based around
+             your schedule.</p>
           </Col>
 
         </Row>
         <Row className="screen-row">
           <Col>
-            <p className="feature-text-large-three">Add friends so you can share your challenge progress.</p>
+            <p className="feature-text-large-three">Add friends so you can share your progress and see what
+            challenges each other are completing. </p>
           </Col>
           <Col>
             <Row>
@@ -102,7 +104,8 @@ const HomeAppFeatures = () => {
             </Row>
           </Col>
           <Col>
-            <p className="feature-text-large-four">Create your own challenge based on your goals and set reminders to a schedule that suits you.</p>
+            <p className="feature-text-large-four">Create your own challenge from scratch based
+             on your own personal goals. </p>
           </Col>
         </Row>
       </Container>

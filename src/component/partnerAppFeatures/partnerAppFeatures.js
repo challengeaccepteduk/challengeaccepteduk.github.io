@@ -66,8 +66,9 @@ const PartnerAppFeatures = () => {
       <Container fluid className="partner-features-container">
         <Row>
           <Col>
-            <p className="partner-feature-header">We will work with you to ensure your brand is reaching<br/>
-            the right audience and achieve your brand objective of<br/>either awareness, engagement or traffic.</p>
+            <p className="partner-feature-header">We will work with you to ensure your brand
+             is reaching the right audience based on showing an active interest and passion for your product
+             or industry and therefore help achieve your brand objective of brand awareness, engagement or traffic.</p>
           </Col>
         </Row>
         <Row className="feature-divider"></Row>
