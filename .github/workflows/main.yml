@@ -29,4 +29,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Deploy
         run: |
+          git config --local user.email "paul.sjohnson91@hotmail.com"
+          git config --local user.name "challengeaccepteduk"
           npm run deploy
+        with:
+          ${{ secrets.GITHUBTOKEN }}
