@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/challengeaccepteduk.github.io/static/css/main.f9add0bd.chunk.css",
+    "main.js": "/challengeaccepteduk.github.io/static/js/main.1a8374f4.chunk.js",
+    "main.js.map": "/challengeaccepteduk.github.io/static/js/main.1a8374f4.chunk.js.map",
+    "runtime-main.js": "/challengeaccepteduk.github.io/static/js/runtime-main.4f9d6e7f.js",
+    "runtime-main.js.map": "/challengeaccepteduk.github.io/static/js/runtime-main.4f9d6e7f.js.map",
+    "static/css/2.1f3ce829.chunk.css": "/challengeaccepteduk.github.io/static/css/2.1f3ce829.chunk.css",
+    "static/js/2.8119487b.chunk.js": "/challengeaccepteduk.github.io/static/js/2.8119487b.chunk.js",
+    "static/js/2.8119487b.chunk.js.map": "/challengeaccepteduk.github.io/static/js/2.8119487b.chunk.js.map",
+    "index.html": "/challengeaccepteduk.github.io/index.html",
+    "precache-manifest.90de244967bb1c1f387da55ce22c2936.js": "/challengeaccepteduk.github.io/precache-manifest.90de244967bb1c1f387da55ce22c2936.js",
+    "service-worker.js": "/challengeaccepteduk.github.io/service-worker.js",
+    "static/css/2.1f3ce829.chunk.css.map": "/challengeaccepteduk.github.io/static/css/2.1f3ce829.chunk.css.map",
+    "static/css/main.f9add0bd.chunk.css.map": "/challengeaccepteduk.github.io/static/css/main.f9add0bd.chunk.css.map",
+    "static/js/2.8119487b.chunk.js.LICENSE.txt": "/challengeaccepteduk.github.io/static/js/2.8119487b.chunk.js.LICENSE.txt",
+    "static/media/Lightbulb.png": "/challengeaccepteduk.github.io/static/media/Lightbulb.57e736a7.png",
+    "static/media/Paul.png": "/challengeaccepteduk.github.io/static/media/Paul.43cb1409.png",
+    "static/media/Steph.png": "/challengeaccepteduk.github.io/static/media/Steph.1c69bb4f.png",
+    "static/media/aboutflow.png": "/challengeaccepteduk.github.io/static/media/aboutflow.efaa51cb.png",
+    "static/media/home-appscreen-1.png": "/challengeaccepteduk.github.io/static/media/home-appscreen-1.d405f32b.png",
+    "static/media/home-appscreen-2.png": "/challengeaccepteduk.github.io/static/media/home-appscreen-2.fd357510.png",
+    "static/media/home-appscreen-3.png": "/challengeaccepteduk.github.io/static/media/home-appscreen-3.7d78fe4b.png",
+    "static/media/home-appscreen-4.png": "/challengeaccepteduk.github.io/static/media/home-appscreen-4.105306db.png",
+    "static/media/mainlogo.png": "/challengeaccepteduk.github.io/static/media/mainlogo.ff22b0ab.png",
+    "static/media/notification.png": "/challengeaccepteduk.github.io/static/media/notification.8044c9e9.png",
+    "static/media/pencil.png": "/challengeaccepteduk.github.io/static/media/pencil.ea03a719.png",
+    "static/media/search.png": "/challengeaccepteduk.github.io/static/media/search.6bb883bb.png",
+    "static/media/App.css": "/challengeaccepteduk.github.io/static/media/ubuntu-v14-latin-regular.694f32f4.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f9d6e7f.js",
+    "static/css/2.1f3ce829.chunk.css",
+    "static/js/2.8119487b.chunk.js",
+    "static/css/main.f9add0bd.chunk.css",
+    "static/js/main.1a8374f4.chunk.js"
+  ]
+}
