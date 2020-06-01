@@ -75,7 +75,7 @@ const HomeAppFeatures = () => {
             </Row>
           </Col>
           <Col>
-            <p className="feature-text-large-two">Set reminders notifications for your challenges based around
+            <p className="feature-text-large-two">Set notification reminders for your challenges based around
              your schedule.</p>
           </Col>
 
@@ -105,7 +105,7 @@ const HomeAppFeatures = () => {
           </Col>
           <Col>
             <p className="feature-text-large-four">Create your own challenge from scratch based
-             on your own personal goals. </p>
+             on your goals. </p>
           </Col>
         </Row>
       </Container>

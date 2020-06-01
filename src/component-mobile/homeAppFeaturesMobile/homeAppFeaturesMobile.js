@@ -51,7 +51,7 @@ const HomeAppFeaturesMobile = () => {
         </Row>
         <Row>
           <Col>
-            <p className="feature-text-mobile">Set reminders notifications for your challenges based around your schedule.</p>
+            <p className="feature-text-mobile">Set notification reminders for your challenges based around your schedule.</p>
           </Col>
         </Row>
         <Row>
@@ -72,7 +72,7 @@ const HomeAppFeaturesMobile = () => {
         </Row>
         <Row>
           <Col>
-            <p className="feature-text-mobile">Create your own challenge from scratch based on your own personal goals. </p>
+            <p className="feature-text-mobile">Create your own challenge from scratch based on your goals. </p>
           </Col>
         </Row>
         <Row>
