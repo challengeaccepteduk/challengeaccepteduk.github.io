@@ -10,7 +10,7 @@ const Footer = () => {
           <Col md={1}></Col>
           <Col>
             <div className="active-footer">Company</div>
-            <div className="inactive-footer"><Link to="/about" className="inactive-footer">About us</Link><br/><Link to="/contact" className="inactive-footer">Contact us</Link></div>
+            <div className="inactive-footer"><Link to="/about" className="inactive-footer">About us</Link><br/><Link to="/contact" className="inactive-footer">Contact us</Link><br/><Link to="/blog" className="inactive-footer">Blog</Link></div>
           </Col>
           <Col>
             <div className="active-footer">Legal</div>

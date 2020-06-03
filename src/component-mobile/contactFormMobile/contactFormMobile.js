@@ -85,7 +85,7 @@ const ContactFormMobile = () => {
                   <Form.Control ref={nameRef} placeholder="Name"/>
                 </Form.Group>
                 <Form.Group as={Col} md={6} controlId="formGridNumber">
-                  <Form.Control ref={numberRef} placeholder="Contact number"/>
+                  <Form.Control ref={numberRef} placeholder="Blog number"/>
                 </Form.Group>
               </Form.Row>
               <Form.Group controlId="formGridMessage">

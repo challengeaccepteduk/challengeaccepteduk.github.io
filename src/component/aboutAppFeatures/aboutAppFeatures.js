@@ -18,7 +18,7 @@ const AboutAppFeatures = () => {
               personal<br/> challenges. Such as:</p>
           </Col>
         </Row>
-        <Row className="feature-divider"></Row>
+        <Row className="feature-divider" />
         <Row>
           <Col md={1}>
           </Col>

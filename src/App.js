@@ -10,6 +10,7 @@ import About from "./screens/about/about";
 import Partners from "./screens/partners/partners";
 import Contact from "./screens/contact/contact";
 import 'antd/dist/antd.css';
+import Blog from "./screens/blog/blog";
 
 
 function App() {
@@ -32,6 +33,9 @@ function App() {
           </Route>
           <Route path='/contact'>
             <Contact width={width} />
+          </Route>
+          <Route path='/blog'>
+            <Blog width={width} />
           </Route>
           <Route path='/'>
             <Home width={width} />
