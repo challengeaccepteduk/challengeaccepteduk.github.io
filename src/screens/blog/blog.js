@@ -97,8 +97,6 @@ export default function Blog() {
               <Sidebar
                   title={sidebar.title}
                   description={sidebar.description}
-                  archives={sidebar.archives}
-                  social={sidebar.social}
               />
             </Grid>
           </main>
