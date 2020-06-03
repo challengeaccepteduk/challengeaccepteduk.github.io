@@ -10,15 +10,15 @@ import MainFeaturedPost from '../../component/MainFeaturedPost';
 import FeaturedPost from '../../component/FeaturedPost';
 import Main from '../../component/Main';
 import Sidebar from '../../component/Sidebar';
-import post1 from '../../blogposts/blog-post.1.md';
-import post2 from '../../blogposts/blog-post.2.md';
-import post3 from '../../blogposts/blog-post.3.md';
 import Header from "../../component/header/header";
 import Footer from "../../component/footer/footer";
+import {blogpost1} from "../../blogposts/blog-post.1";
+import {blogpost2} from "../../blogposts/blog-post.2";
 
 const useStyles = makeStyles((theme) => ({
   mainGrid: {
     marginTop: theme.spacing(3),
+    textAlign: 'left',
   },
 }));
 
@@ -50,7 +50,7 @@ const featuredPosts = [
   },
 ];
 
-const posts = [post1, post2, post3];
+const posts = [blogpost1, blogpost2];
 
 const sidebar = {
   title: 'About',
@@ -82,8 +82,9 @@ export default function Blog() {
   return (
       <div>
         <Header tab={''}/>
+        <div style={{height: 20, backgroundColor: '#2A3746'}} />
         <CssBaseline/>
-        <Container maxWidth="lg">
+        <Container maxWidth="lg" style={{marginTop: 20}}>
           <main>
             <MainFeaturedPost post={mainFeaturedPost}/>
             <Grid container spacing={4}>
