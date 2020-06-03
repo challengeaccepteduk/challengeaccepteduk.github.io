@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4898d9a643bd03ef945b36fada0ae4fb",
+    "revision": "712a69fc641bf9a6a7876e1d30783472",
     "url": "/challengeaccepteduk.github.io/index.html"
   },
   {
-    "revision": "8a780660cabc64b4d51b",
+    "revision": "2774307357f7715ac718",
     "url": "/challengeaccepteduk.github.io/static/css/2.f365fa9d.chunk.css"
   },
   {
-    "revision": "cbab6a2ab3ee903bda73",
+    "revision": "e7c0691f83d0ecb78237",
     "url": "/challengeaccepteduk.github.io/static/css/main.f9add0bd.chunk.css"
   },
   {
-    "revision": "8a780660cabc64b4d51b",
-    "url": "/challengeaccepteduk.github.io/static/js/2.0d19bdd9.chunk.js"
+    "revision": "2774307357f7715ac718",
+    "url": "/challengeaccepteduk.github.io/static/js/2.a8f2bfe3.chunk.js"
   },
   {
-    "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/challengeaccepteduk.github.io/static/js/2.0d19bdd9.chunk.js.LICENSE.txt"
+    "revision": "5e9b6f5c16b720e8a86875f97734673e",
+    "url": "/challengeaccepteduk.github.io/static/js/2.a8f2bfe3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cbab6a2ab3ee903bda73",
-    "url": "/challengeaccepteduk.github.io/static/js/main.e8266211.chunk.js"
+    "revision": "e7c0691f83d0ecb78237",
+    "url": "/challengeaccepteduk.github.io/static/js/main.a000f82a.chunk.js"
   },
   {
     "revision": "0d7c4e9a5b0af9da1a4d",
@@ -42,6 +42,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "efaa51cbf44d3a31eb68e213c9012543",
     "url": "/challengeaccepteduk.github.io/static/media/aboutflow.efaa51cb.png"
+  },
+  {
+    "revision": "f3a53693fdbaf052e8f883c8fa2efcd6",
+    "url": "/challengeaccepteduk.github.io/static/media/blog-post.1.f3a53693.md"
+  },
+  {
+    "revision": "99cbba3ba72c097ec32daa6f5eed33ec",
+    "url": "/challengeaccepteduk.github.io/static/media/blog-post.2.99cbba3b.md"
+  },
+  {
+    "revision": "8d6e276be069ee011ba792969f01d327",
+    "url": "/challengeaccepteduk.github.io/static/media/blog-post.3.8d6e276b.md"
   },
   {
     "revision": "31c64f413b5a9211e40f8ce2af3b0b41",
