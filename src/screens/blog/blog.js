@@ -18,12 +18,13 @@ import {blogpost3} from "../../blogposts/blog-post.3";
 import mainimage from "../../screens/blog/blogassets/mainimage.jpg";
 import image2 from "../../screens/blog/blogassets/image2.jpg";
 import image3 from "../../screens/blog/blogassets/image3.jpg";
+import {createMuiTheme, MuiThemeProvider} from "@material-ui/core";
 
 const useStyles = makeStyles((theme) => ({
   mainGrid: {
     marginTop: theme.spacing(3),
     textAlign: 'left',
-
+    fontFamily:'ubuntu'
   },
 }));
 
@@ -34,6 +35,7 @@ const mainFeaturedPost = {
   image: mainimage,
   imgText: 'main image description',
   linkText: 'Continue reading…',
+  link: '#introducing-challenges-the-big-the-small-and-personal'
 };
 
 const featuredPosts = [
@@ -44,6 +46,7 @@ const featuredPosts = [
         'Reasons to give one a try and inspiration to start yours.',
     image: image2,
     imageText: 'Image Text',
+    link: '#why-we-love-challenges-that-are-30-days'
   },
   {
     title: '10 reasons to love Yoga with Adriene',
@@ -52,6 +55,7 @@ const featuredPosts = [
         'The Yoga YouTube series everyone is talking about.',
     image: image3,
     imageText: 'Yoga, Fitness, 10 reasons to love Yoga with Adriene, 30 day challenge',
+    link: '#10-reasons-why-yoga-with-adriene-is-our-favourite-yoga-series'
   },
 ];
 
@@ -80,6 +84,32 @@ const sidebar = {
     {name: 'Facebook', icon: FacebookIcon},
   ],
 };
+const ubuntu = {
+  fontFamily: 'Ubuntu',
+  fontStyle: 'normal',
+  fontWeight: 400,
+  src: `
+  local('Ubuntu Regular'), local('Ubuntu-Regular'),
+       url('../fonts/ubuntu-v14-latin-regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/ubuntu-v14-latin-regular.woff2') format('woff2'),
+       url('../fonts/ubuntu-v14-latin-regular.woff') format('woff'),
+       url('../fonts/ubuntu-v14-latin-regular.ttf') format('truetype'),
+       url('../fonts/ubuntu-v14-latin-regular.svg#Ubuntu') format('svg');
+   `,
+};
+
+const theme = createMuiTheme({
+  typography: {
+    fontFamily: 'Ubuntu'
+  },
+  overrides: {
+    MuiCssBaseline: {
+      '@global': {
+        '@font-face': [ubuntu],
+      },
+    },
+  },
+});
 
 export default function Blog() {
   const classes = useStyles();
@@ -88,24 +118,26 @@ export default function Blog() {
       <div>
         <Header tab={''}/>
         <div style={{height: 20, backgroundColor: '#2A3746'}} />
-        <CssBaseline/>
-        <Container maxWidth="lg" style={{marginTop: 20}}>
-          <main>
-            <MainFeaturedPost post={mainFeaturedPost}/>
-            <Grid container spacing={4}>
-              {featuredPosts.map((post) => (
-                  <FeaturedPost key={post.title} post={post}/>
-              ))}
-            </Grid>
-            <Grid container spacing={5} className={classes.mainGrid}>
-              <Main title="The latest from Challenge Accepted" posts={posts}/>
-              <Sidebar
-                  title={sidebar.title}
-                  description={sidebar.description}
-              />
-            </Grid>
-          </main>
-        </Container>
+        <MuiThemeProvider theme={theme}>
+          <CssBaseline/>
+          <Container maxWidth="lg" style={{marginTop: 20}}>
+            <main>
+              <MainFeaturedPost post={mainFeaturedPost} link={mainFeaturedPost.link}/>
+              <Grid container spacing={4}>
+                {featuredPosts.map((post) => (
+                    <FeaturedPost key={post.title} post={post}/>
+                ))}
+              </Grid>
+              <Grid container spacing={5} className={classes.mainGrid}>
+                <Main title="The latest from Challenge Accepted" posts={posts}/>
+                <Sidebar
+                    title={sidebar.title}
+                    description={sidebar.description}
+                />
+              </Grid>
+            </main>
+          </Container>
+        </MuiThemeProvider>
         <Footer/>
       </div>
   );
