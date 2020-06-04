@@ -1,48 +1,36 @@
 export const blogpost1 =
-    `# Sample blog post
+    `# Introducing Challenges. The big, the small and personal
 
-#### April 1, 2020 by [Olivier](/)
+#### June 3, 2020 by Steph
 
-This blog post shows a few different types of content that are supported and styled with
-Material styles. Basic typography, images, and code are all supported.
-You can extend these by modifying \`Markdown.js\`.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+## Discover, track and complete your personal challenges with the Challenge Accepted app
 
-Curabitur blandit tempus porttitor. **Nullam quis risus eget urna mollis** ornare vel eu leo.
-Nullam id dolor id nibh ultricies vehicula ut id elit.
+Finishing challenges or forming new habits is so difficult because we set way too many and try to do them all at once or set a goal that’s too hard to achieve in one go without the smaller steps and achievements to get there, or sometimes we forget we even started them!
 
-Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum.
-Aenean lacinia bibendum nulla sed consectetur.
+Challenge Accepted’s mission is to give people the inspiration and tools to complete personal challenges, no matter how big or small.
 
-## Heading
+We want you to
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+- Be inspired to find new challenges by discovering more of what you love
+You have passions, don’t forget to explore them and keep them a part of your life.
+- Create personal challenges tailored suited to your timeline.
+Set yourself reminders in the app for daily challenges so you don’t forget. And remember you can always snooze them and go again tomorrow! Every challenge is a personal challenge so do it at your own pace. You can save challenges you like the sound of for later.
+- Challenge friends
+Compare challenges with your friends such as your own travel wishlists to decide your next trip, football stadiums to visit, or see if you can both complete a 30 day fitness challenge.
 
-### Sub-heading
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+### And please remember...
 
-### Sub-heading
+- Not completing the challenge isn’t failing!
+An odd thing to say for a company called Challenge Accepted, but we know that for one reason or another we don’t always finish the challenges we set ourselves. Challenge Accepted should allow you to keep track of them and if you do need to have a break, you can always come back to it.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod.
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo
-sit amet risus.
+- Be ok with setting what you might call <i>small challenges</i>.
+Whether your challenge is a simple to do list for the day, a 30 day fitness challenge, or working through the latest film challenge. As long as it’s something personal to you, then you’re doing it right.
 
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
+- Pick a mixture of challenges.
+Not everyone has to run a marathon or climb Mount Everest. Great if you can do those things, but we’re just humans trying to get by and have a good time doing it. Try a few different ones to keep it interesting - if you do all the fitness challenges you’ll wear yourself out! Try a mixture of health, hobbies and travel.
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+### We’re new, and working on our own challenge by making this app better every day, so would love for your feedback on the beta phase of the app how we can improve. Register for beta testing or to be the first to be contacted when we launch.
 
-1.  Vestibulum id ligula porta felis euismod semper.
-2.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3.  Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
 `
