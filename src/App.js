@@ -22,42 +22,24 @@ function App() {
   };
   return (
         <div>
-          <Router>
+          <Router basename={process.env.PUBLIC_URL}>
             <Switch>
-              <Route path={process.env.PUBLIC_URL + '/about'}>
+              <Route path='/about'>
                 <About width={width}/>
               </Route>
-              <Route path={process.env.PUBLIC_URL + '/partner'}>
+              <Route path='/partner'>
                 <Partners width={width} />
               </Route>
-              <Route path={process.env.PUBLIC_URL + '/contact'}>
+              <Route path='/contact'>
                 <Contact width={width} />
               </Route>
-              <Route path={process.env.PUBLIC_URL + '/blog'}>
+              <Route path='/blog'>
                 <Blog width={width} />
               </Route>
-              <Route path={process.env.PUBLIC_URL + '/privacy'}>
+              <Route path='/privacy'>
                 <Privacy width={width} />
               </Route>
-              <Route path={process.env.PUBLIC_URL + '/'}>
-                <Home width={width} />
-              </Route>
-              <Route path={'/about'}>
-                <About width={width}/>
-              </Route>
-              <Route path={'/partner'}>
-                <Partners width={width} />
-              </Route>
-              <Route path={'/contact'}>
-                <Contact width={width} />
-              </Route>
-              <Route path={'/blog'}>
-                <Blog width={width} />
-              </Route>
-              <Route path={'/privacy'}>
-                <Privacy width={width} />
-              </Route>
-              <Route path={'/'}>
+              <Route path='/'>
                 <Home width={width} />
               </Route>
             </Switch>
