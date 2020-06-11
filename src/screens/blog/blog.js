@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import {makeStyles} from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Grid from '@material-ui/core/Grid';
@@ -19,6 +19,7 @@ import mainimage from "../../screens/blog/blogassets/mainimage.jpg";
 import image2 from "../../screens/blog/blogassets/image2.jpg";
 import image3 from "../../screens/blog/blogassets/image3.jpg";
 import {createMuiTheme, MuiThemeProvider} from "@material-ui/core";
+import { useLocation } from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
   mainGrid: {
@@ -27,6 +28,7 @@ const useStyles = makeStyles((theme) => ({
     fontFamily:'ubuntu'
   },
 }));
+
 
 const mainFeaturedPost = {
   title: 'Introducing Challenges. The big, small & personal. ',
@@ -113,7 +115,11 @@ const theme = createMuiTheme({
 
 export default function Blog() {
   const classes = useStyles();
+  const { pathname } = useLocation();
 
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
   return (
       <div>
         <Header tab={''}/>

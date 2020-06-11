@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import Header from '../../component/header/header'
 import {CONTACT} from "../../constants/constants";
 import Footer from "../../component/footer/footer";
@@ -10,7 +10,13 @@ import ContactBannerMobile
   from "../../component-mobile/contactBannerMobile/contactBannerMobile";
 import ContactFormMobile
   from "../../component-mobile/contactFormMobile/contactFormMobile";
+import {useLocation} from "react-router-dom";
 const Contact = ({width}) => {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
   const isMobile = width <= 500;
   if(isMobile){
     return (

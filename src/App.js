@@ -11,8 +11,7 @@ import Partners from "./screens/partners/partners";
 import Contact from "./screens/contact/contact";
 import 'antd/dist/antd.css';
 import Blog from "./screens/blog/blog";
-
-
+import Privacy from "./screens/privacy/privacy";
 function App() {
   const [width, setWidth] = useState(window.innerWidth);
   useEffect(() => {
@@ -22,27 +21,30 @@ function App() {
     setWidth(window.innerWidth);
   };
   return (
-    <div className="App">
-      <Router>
-        <Switch>
-          <Route path='/about'>
-            <About width={width}/>
-          </Route>
-          <Route path='/partner'>
-            <Partners width={width} />
-          </Route>
-          <Route path='/contact'>
-            <Contact width={width} />
-          </Route>
-          <Route path='/blog'>
-            <Blog width={width} />
-          </Route>
-          <Route path='/'>
-            <Home width={width} />
-          </Route>
-        </Switch>
-      </Router>
-    </div>
+        <div>
+          <Router>
+            <Switch>
+              <Route path={process.env.PUBLIC_URL + '/about'}>
+                <About width={width}/>
+              </Route>
+              <Route path={process.env.PUBLIC_URL + '/partner'}>
+                <Partners width={width} />
+              </Route>
+              <Route path={process.env.PUBLIC_URL + '/contact'}>
+                <Contact width={width} />
+              </Route>
+              <Route path={process.env.PUBLIC_URL + '/blog'}>
+                <Blog width={width} />
+              </Route>
+              <Route path={process.env.PUBLIC_URL + '/privacy'}>
+                <Privacy width={width} />
+              </Route>
+              <Route path={process.env.PUBLIC_URL + '/'}>
+                <Home width={width} />
+              </Route>
+            </Switch>
+          </Router>
+        </div>
   );
 }
 

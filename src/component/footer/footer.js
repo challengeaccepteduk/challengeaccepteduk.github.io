@@ -14,7 +14,7 @@ const Footer = () => {
           </Col>
           <Col>
             <div className="active-footer">Legal</div>
-            <div className="inactive-footer">Privacy</div>
+            <div className="inactive-footer"><Link to="/privacy" className="inactive-footer">Privacy</Link></div>
           </Col>
           <Col>
             <div className="active-footer">Follow Us</div>

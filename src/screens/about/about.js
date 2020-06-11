@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import Header from '../../component/header/header'
 import {ABOUT} from "../../constants/constants";
 import Footer from "../../component/footer/footer";
@@ -15,8 +15,14 @@ import AboutRegistrationBannerMobile
   from "../../component-mobile/aboutRegistrationBannerMobile/aboutRegistrationBannerMobile";
 import AboutAppFeaturesMobile
   from "../../component-mobile/aboutAppFeaturesMobile/aboutAppFeaturesMobile";
+import {useLocation} from "react-router-dom";
 
 const About = ({width}) => {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
   const isMobile = width <= 500;
   if(isMobile){
     return (

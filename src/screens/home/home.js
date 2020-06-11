@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import Header from '../../component/header/header'
 import {HOME} from "../../constants/constants";
 import HomeRegistrationBanner
@@ -14,8 +14,14 @@ import HomeEmailMobile
   from "../../component-mobile/homeEmailMobile/homeEmailMobile";
 import FooterMobile from "../../component-mobile/footer-mobile/footer-mobile";
 import HeaderMobile from "../../component-mobile/header-mobile/headerMobile";
+import {useLocation} from "react-router-dom";
 
 const Home = ({width}) => {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
   const isMobile = width <= 500;
   if(isMobile){
     return (
