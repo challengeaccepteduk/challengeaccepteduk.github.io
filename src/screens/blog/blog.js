@@ -122,7 +122,9 @@ export default function Blog() {
   }, [pathname]);
   return (
       <div>
-        <Header tab={''}/>
+        <div className="App">
+          <Header className="App" tab={''}/>
+        </div>
         <div style={{height: 20, backgroundColor: '#2A3746'}} />
         <MuiThemeProvider theme={theme}>
           <CssBaseline/>

@@ -16,8 +16,9 @@ const Privacy = ({width}) => {
   if(isMobile){
     return (
         <div>
-          <HeaderMobile tab={''}/>
-          <div style={{height:20, backgroundColor:'#2A3746'}}></div>
+          <div className="App">
+            <HeaderMobile className="App" tab={''}/>
+          </div>          <div style={{height:20, backgroundColor:'#2A3746'}}></div>
           <div style={{width: '80%', marginLeft: '10%', marginTop: '5%', marginBottom: '5%'}}>
             <PrivacyPolicy/>
           </div>
@@ -28,7 +29,9 @@ const Privacy = ({width}) => {
   else {
     return (
         <div>
-          <Header tab={''}/>
+          <div className="App">
+            <Header className="App" tab={''}/>
+          </div>
           <div style={{height:20, backgroundColor:'#2A3746'}}></div>
           <div style={{width: '80%', marginLeft: '10%', marginTop: '5%', marginBottom: '5%'}}>
             <PrivacyPolicy/>
