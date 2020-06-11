@@ -42,6 +42,24 @@ function App() {
               <Route path={process.env.PUBLIC_URL + '/'}>
                 <Home width={width} />
               </Route>
+              <Route path={'/about'}>
+                <About width={width}/>
+              </Route>
+              <Route path={'/partner'}>
+                <Partners width={width} />
+              </Route>
+              <Route path={'/contact'}>
+                <Contact width={width} />
+              </Route>
+              <Route path={'/blog'}>
+                <Blog width={width} />
+              </Route>
+              <Route path={'/privacy'}>
+                <Privacy width={width} />
+              </Route>
+              <Route path={'/'}>
+                <Home width={width} />
+              </Route>
             </Switch>
           </Router>
         </div>
