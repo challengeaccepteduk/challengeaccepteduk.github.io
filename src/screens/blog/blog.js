@@ -20,6 +20,8 @@ import image2 from "../../screens/blog/blogassets/image2.jpg";
 import image3 from "../../screens/blog/blogassets/image3.jpg";
 import {createMuiTheme, MuiThemeProvider} from "@material-ui/core";
 import { useLocation } from "react-router-dom";
+import HeaderMobile from "../../component-mobile/header-mobile/headerMobile";
+import FooterMobile from "../../component-mobile/footer-mobile/footer-mobile";
 
 const useStyles = makeStyles((theme) => ({
   mainGrid: {
@@ -113,17 +115,19 @@ const theme = createMuiTheme({
   },
 });
 
-export default function Blog() {
+export default function Blog({width}) {
   const classes = useStyles();
   const { pathname } = useLocation();
 
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [pathname]);
+  const isMobile = width <= 500;
+
   return (
       <div>
         <div className="App">
-          <Header className="App" tab={''}/>
+          {isMobile? <HeaderMobile className="App" tab={''}/> : <Header className="App" tab={''}/>}
         </div>
         <div style={{height: 20, backgroundColor: '#2A3746'}} />
         <MuiThemeProvider theme={theme}>
@@ -146,7 +150,7 @@ export default function Blog() {
             </main>
           </Container>
         </MuiThemeProvider>
-        <Footer/>
+        {isMobile? <FooterMobile className="App" tab={''}/> : <Footer/>}
       </div>
   );
 }
