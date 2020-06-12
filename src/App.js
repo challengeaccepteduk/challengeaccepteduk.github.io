@@ -12,6 +12,16 @@ import Contact from "./screens/contact/contact";
 import 'antd/dist/antd.css';
 import Blog from "./screens/blog/blog";
 import Privacy from "./screens/privacy/privacy";
+import ReactGA from 'react-ga';
+import { createBrowserHistory } from 'history';
+const history = createBrowserHistory();
+const trackingId = "UA-164273150-1"; // Replace with your Google Analytics tracking ID
+ReactGA.initialize(trackingId);
+history.listen(location => {
+  ReactGA.set({ page: location.pathname }); // Update the user's current page
+  ReactGA.pageview(location.pathname); // Record a pageview for the given page
+});
+
 function App() {
   const [width, setWidth] = useState(window.innerWidth);
   useEffect(() => {
@@ -20,6 +30,7 @@ function App() {
   const handleWindowSizeChange = () => {
     setWidth(window.innerWidth);
   };
+
   return (
         <div>
           <Router basename={process.env.PUBLIC_URL}>

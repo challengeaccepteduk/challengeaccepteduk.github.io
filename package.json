@@ -11,6 +11,7 @@
     "antd": "^4.1.4",
     "bootstrap": "^4.4.1",
     "gh-pages": "^2.2.0",
+    "history": "^4.10.1",
     "html-react-parser": "^0.13.0",
     "iframe-resizer-react": "^1.0.3",
     "markdown-to-jsx": "^6.11.4",
@@ -18,6 +19,7 @@
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0",
     "react-dom": "^16.13.1",
+    "react-ga": "^3.0.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
     "react-scroll": "^1.7.16"
