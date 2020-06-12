@@ -2,7 +2,6 @@ import React, {useEffect, useState} from 'react';
 import './App.css';
 import {
   BrowserRouter as Router,
-  Switch,
   Route,
 } from "react-router-dom";
 import Home from "./screens/home/home";
@@ -13,14 +12,10 @@ import 'antd/dist/antd.css';
 import Blog from "./screens/blog/blog";
 import Privacy from "./screens/privacy/privacy";
 import ReactGA from 'react-ga';
-import { createBrowserHistory } from 'history';
-const history = createBrowserHistory();
-const trackingId = "UA-164273150-1"; // Replace with your Google Analytics tracking ID
+import AppContainer from "./AppContainer";
+
+const trackingId = "UA-164273150-1";
 ReactGA.initialize(trackingId);
-history.listen(location => {
-  ReactGA.set({ page: location.pathname }); // Update the user's current page
-  ReactGA.pageview(location.pathname); // Record a pageview for the given page
-});
 
 function App() {
   const [width, setWidth] = useState(window.innerWidth);
@@ -30,32 +25,31 @@ function App() {
   const handleWindowSizeChange = () => {
     setWidth(window.innerWidth);
   };
-
   return (
-        <div>
-          <Router basename={process.env.PUBLIC_URL}>
-            <Switch>
+      <div>
+        <Router basename={process.env.PUBLIC_URL}>
+          <AppContainer>
               <Route path='/about'>
                 <About width={width}/>
               </Route>
               <Route path='/partner'>
-                <Partners width={width} />
+                <Partners width={width}/>
               </Route>
               <Route path='/contact'>
-                <Contact width={width} />
+                <Contact width={width}/>
               </Route>
               <Route path='/blog'>
-                <Blog width={width} />
+                <Blog width={width}/>
               </Route>
               <Route path='/privacy'>
-                <Privacy width={width} />
+                <Privacy width={width}/>
               </Route>
               <Route path='/'>
-                <Home width={width} />
+                <Home width={width}/>
               </Route>
-            </Switch>
-          </Router>
-        </div>
+          </AppContainer>
+        </Router>
+      </div>
   );
 }
 
