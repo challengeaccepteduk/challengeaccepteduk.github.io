@@ -5,6 +5,7 @@ import {Link} from "react-router-dom";
 import {Link as ScrollLink} from "react-scroll";
 const Footer = () => {
   return (
+      <div>
       <Container fluid className="footer-container">
         <Row>
           <Col md={1}></Col>
@@ -29,6 +30,8 @@ const Footer = () => {
           </Col>
         </Row>
       </Container>
+      <div className="company-name">Challenge Accepted Ltd</div>
+      </div>
   )
 };
 

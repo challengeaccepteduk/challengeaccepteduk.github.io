@@ -1,7 +1,7 @@
 .footer-container{
   /*padding: 10px;*/
   background-color: #2A3746;
-  padding: 20px 40px 50px;
+  /*padding: 20px 40px;*/
 }
 .active-footer{
   color: #ffce2c;
@@ -15,4 +15,12 @@
   text-decoration: none;
   padding-top: -10px;
   text-align: left;
+}
+.company-name {
+  font-size: 12px;
+  text-align: left;
+  color: white;
+  padding-bottom: 10px;
+  background-color: #2A3746;
+
 }
