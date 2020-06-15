@@ -15,7 +15,7 @@ Dedicate
 Home
 
 2. <b>Benji</b>
-Don’t even have words for the level of cuteness. 😍
+Benji is Adrienes'' very cute dog who is often lying around in the background.
 
 3. <b>It’s free</b>
 
@@ -37,7 +37,7 @@ We all love a workout but when the video starts with getting yourself a pillow a
 9. <b>You might actually be able to do crow pose with some practice</b>
 If you are a beginner, it may seem this is some crazy-witchcraft-strong-jedi pose. But apparently not, being taken through the right way to start and a little practice, it is actually possible for the normal human. Maybe get a friend to help you practice if you have the nerves.
 
-10. <b>And Benji again obviously.</b>
+10. <b>And Benji the dog again.</b>
 
 
 To help you stick to and complete the 30 day yoga challenges we’ve added all five to the Challenge Accepted app with the ability to set reminders to carve out a little time for yourself and Yoga with Adriene at times and days that suit you.

@@ -57,7 +57,7 @@ const HomeEmailMobile = () => {
       <Container fluid className="email-container-mobile">
         <Row>
           <Col md={12}>
-            <p className="launch-coming-mobile">Launch coming June 2020.<br/>Get first
+            <p className="launch-coming-mobile">Launch coming Summer 2020.<br/>Get first
               look access.</p>
           </Col>
           <Col md={12}>

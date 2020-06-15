@@ -242,7 +242,7 @@ const AboutAppFeaturesMobile = () => {
         <Row>
           <Col>
             <div className="profile-text-mobile"> We’re currently in the testing phase and are on
-            track to launch the Challenge Accepted app on both the Google Play Store and Apple app store in June 2020.
+            track to launch the Challenge Accepted app on both the Google Play Store and Apple app store Summer 2020.
             </div>
           </Col>
         </Row>
