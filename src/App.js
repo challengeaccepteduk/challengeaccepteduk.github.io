@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import './App.css';
 import {
   BrowserRouter as Router,
-  Route,
+  Route, Switch
 } from "react-router-dom";
 import Home from "./screens/home/home";
 import About from "./screens/about/about";
@@ -29,6 +29,7 @@ function App() {
       <div>
         <Router basename={process.env.PUBLIC_URL}>
           <AppContainer>
+            <Switch>
               <Route path='/about'>
                 <About width={width}/>
               </Route>
@@ -47,6 +48,7 @@ function App() {
               <Route path='/'>
                 <Home width={width}/>
               </Route>
+            </Switch>
           </AppContainer>
         </Router>
       </div>
