@@ -1,0 +1,9 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "4JMB32666J.com.challengeacceptedapp.challengeacceptedapp",
+      "paths": ["/challenge/*","/profile/*", "challenge"]
+    }]
+  }
+}
