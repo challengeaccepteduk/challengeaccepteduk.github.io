@@ -13,6 +13,8 @@ import Blog from "./screens/blog/blog";
 import Privacy from "./screens/privacy/privacy";
 import ReactGA from 'react-ga';
 import AppContainer from "./AppContainer";
+import CookieConsent from "react-cookie-consent";
+import Cookies from "./screens/cookies/cookies";
 
 const trackingId = "UA-164273150-1";
 ReactGA.initialize(trackingId);
@@ -27,6 +29,7 @@ function App() {
   };
   return (
       <div>
+        <CookieConsent>By using this site you agree to our cookie policy found <a href='/cookies'>here</a></CookieConsent>
         <Router basename={process.env.PUBLIC_URL}>
           <AppContainer>
             <Switch>
@@ -43,6 +46,12 @@ function App() {
                 <Blog width={width}/>
               </Route>
               <Route path='/privacy'>
+                <Privacy width={width}/>
+              </Route>
+              <Route path='/cookies'>
+                <Cookies width={width}/>
+              </Route>
+              <Route path='/terms'>
                 <Privacy width={width}/>
               </Route>
               <Route path='/'>

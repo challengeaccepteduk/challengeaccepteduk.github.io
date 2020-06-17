@@ -1041,13 +1041,6 @@ export const PrivacyPolicy = () => {
           + "                          font-family: Arial;\n"
           + "                        }\n"
           + "                      </style>\n"
-          + "                    </div>\n"
-          + "                    <div\n"
-          + "                        style=\"color: #595959;font-size: 14px;font-family: Arial;padding-top:16px;\">\n"
-          + "                      This privacy policy was created using <a\n"
-          + "                        style=\"color: rgb(48, 48, 241) !important;\"\n"
-          + "                        href=\"https://termly.io/products/privacy-policy-generator/?ftseo\">Termly’s\n"
-          + "                      Privacy Policy Generator</a>.\n"
           + "                    </div>\n")
   );
 
