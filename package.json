@@ -27,7 +27,7 @@
   "homepage": "http://challengeaccepteduk.github.com/challengeaccepteduk.github.io",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && echo 'www.challengeacceptedapp.com' > ./build/CNAME && cp ./build/index.html ./build/404.html",
+    "build": "react-scripts build && echo 'challengeacceptedapp.com' > ./build/CNAME && cp ./build/index.html ./build/404.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build -b master"
