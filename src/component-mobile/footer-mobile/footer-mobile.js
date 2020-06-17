@@ -15,6 +15,8 @@ const FooterMobile = () => {
           <Col>
             <div className="active-footer-mobile">Legal</div>
             <div className="inactive-footer-mobile"><Link to="/privacy" className="inactive-footer-mobile">Privacy</Link></div>
+            <div className="inactive-footer-mobile"><Link to="/terms" className="inactive-footer-mobile">Terms</Link></div>
+            <div className="inactive-footer-mobile"><Link to="/cookies" className="inactive-footer-mobile">Cookies</Link></div>
           </Col>
           <Col>
             <div className="active-footer-mobile">Follow</div>

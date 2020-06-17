@@ -15,6 +15,7 @@ import ReactGA from 'react-ga';
 import AppContainer from "./AppContainer";
 import CookieConsent from "react-cookie-consent";
 import Cookies from "./screens/cookies/cookies";
+import TermsPage from "./screens/terms/TermsPage";
 
 const trackingId = "UA-164273150-1";
 ReactGA.initialize(trackingId);
@@ -52,7 +53,7 @@ function App() {
                 <Cookies width={width}/>
               </Route>
               <Route path='/terms'>
-                <Privacy width={width}/>
+                <TermsPage width={width}/>
               </Route>
               <Route path='/'>
                 <Home width={width}/>

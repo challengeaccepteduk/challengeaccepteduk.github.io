@@ -16,6 +16,9 @@ const Footer = () => {
           <Col>
             <div className="active-footer">Legal</div>
             <div className="inactive-footer"><Link to="/privacy" className="inactive-footer">Privacy</Link></div>
+            <div className="inactive-footer"><Link to="/terms" className="inactive-footer">Terms</Link></div>
+            <div className="inactive-footer"><Link to="/cookies" className="inactive-footer">Cookies</Link></div>
+
           </Col>
           <Col>
             <div className="active-footer">Follow Us</div>

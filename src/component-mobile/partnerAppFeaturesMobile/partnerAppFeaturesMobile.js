@@ -125,7 +125,7 @@ const PartnerAppFeaturesMobile = () => {
                   <Form.Control ref={nameRef} placeholder="Name"/>
                 </Form.Group>
                 <Form.Group as={Col} md={6} controlId="formGridNumber">
-                  <Form.Control ref={numberRef} placeholder="Cookies number"/>
+                  <Form.Control ref={numberRef} placeholder="TermsPage number"/>
                 </Form.Group>
               </Form.Row>
               <Form.Group controlId="formGridMessage">
