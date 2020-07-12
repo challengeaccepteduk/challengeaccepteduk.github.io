@@ -1,0 +1,31 @@
+.form {
+  padding-bottom: 2rem;
+}
+
+.layout {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.heading {
+  padding-bottom: .8rem;
+  color: var(--dark-theme-heading-text);
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.label {
+  display: block;
+  padding-bottom: .4rem;
+  font-size: .8rem;
+}
+
+.input {
+  margin-right: .4rem;
+  padding: 1rem;
+  border: 0;
+  border-radius: .4rem;
+  font-family: inherit;
+  font-size: .8rem;
+}
