@@ -1,0 +1,37 @@
+.container {
+  max-width: var(--max-width);
+  margin-right: auto;
+  margin-left: auto;
+  padding: 2rem 1rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+.content,
+.image {
+  flex: 1 0 50%;
+}
+
+.image {
+  position: sticky;
+  top: 10vh;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image img {
+  width: 300px;
+  max-width: 100%;
+  height: auto;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 80vh;
+}
