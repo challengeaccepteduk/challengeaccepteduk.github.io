@@ -3,9 +3,7 @@ import Button from '../Button';
 
 import { wrapper, container, heading, button } from './Header.module.css';
 
-const Header = (props) => {
-  const { includeRegisterButton, headline } = props;
-  console.log('props', props);
+const Header = ({ includeRegisterButton, headline }) => {
   return (
     <header className={wrapper}>
       <Navigation />

@@ -16,43 +16,45 @@ const AboutUs = () => {
 
       <h2>Founders</h2>
       <table>
-        <tr>
-          <th>&nbsp;</th>
-          <th>Paul Johnson</th>
-          <th>Steph Mandeville</th>
-        </tr>
-        <tr>
-          <th>Experience</th>
-          <td>GSK, Fujitsu, TomTom, William Hill, Sky</td>
-          <td>Intel, EE, BT, TodayTix</td>
-        </tr>
-        <tr>
-          <th>University</th>
-          <td>Computer Science and Mathematics BSc from Bath University, 2:1 Hons</td>
-          <td>Marketing Management BA from DeMontfort University, 1st Class Hons</td>
-        </tr>
-        <tr>
-          <th>Focus</th>
-          <td>Software development and test engineering</td>
-          <td>App scope & design, business development & operations, brand & marketing, finance</td>
-        </tr>
-        <tr>
-          <th>Challenges</th>
-          <td>
-            <ul>
-              <li>Daily Squats</li>
-              <li>Trying every Dairy milk chocolate</li>
-              <li>Watching every Will Smith film</li>
-            </ul>
-          </td>
-          <td>
-            <ul>
-              <li>30 days of Yoga with Adriene on YouTube</li>
-              <li>Visiting every country in Europe</li>
-              <li>Watching every Disney animation film</li>
-            </ul>
-          </td>
-        </tr>
+        <tbody>
+          <tr>
+            <th>&nbsp;</th>
+            <th>Paul Johnson</th>
+            <th>Steph Mandeville</th>
+          </tr>
+          <tr>
+            <th>Experience</th>
+            <td>GSK, Fujitsu, TomTom, William Hill, Sky</td>
+            <td>Intel, EE, BT, TodayTix</td>
+          </tr>
+          <tr>
+            <th>University</th>
+            <td>Computer Science and Mathematics BSc from Bath University, 2:1 Hons</td>
+            <td>Marketing Management BA from DeMontfort University, 1st Class Hons</td>
+          </tr>
+          <tr>
+            <th>Focus</th>
+            <td>Software development and test engineering</td>
+            <td>App scope & design, business development & operations, brand & marketing, finance</td>
+          </tr>
+          <tr>
+            <th>Challenges</th>
+            <td>
+              <ul>
+                <li>Daily Squats</li>
+                <li>Trying every Dairy milk chocolate</li>
+                <li>Watching every Will Smith film</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>30 days of Yoga with Adriene on YouTube</li>
+                <li>Visiting every country in Europe</li>
+                <li>Watching every Disney animation film</li>
+              </ul>
+            </td>
+          </tr>
+        </tbody>
       </table>
 
       <h2>Our story</h2>
