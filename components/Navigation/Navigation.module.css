@@ -2,13 +2,16 @@
   max-width: var(--max-width);
   margin-right: auto;
   margin-left: auto;
+  padding-right: 1rem;
+  padding-left: 1rem;
   display: flex;
   justify-content: flex-end;
 }
 
 .link {
   display: inline-block;
-  padding: 1rem;
+  margin-left: 2rem;
+  padding: 1rem 0;
   color: var(--dark-theme-heading-text);
   font-size: .8rem;
   font-weight: 700;

@@ -6,7 +6,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Global styles declaration */
 :root {
-  --light-theme-background: #fff;
+  --light-theme-background: #eee;
   --dark-theme-background: #2a3746;
 
   --light-theme-text: #2a3746;
@@ -19,11 +19,12 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 }
 
 html, body {
-  background-color: var(--site-background);
+  background-color: var(--light-theme-background);
   color: var(--light-theme-text);
   font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 1.25;
+  letter-spacing: -.025rem;
   -webkit-font-smoothing: antialiased;
 }

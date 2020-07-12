@@ -24,14 +24,25 @@
 }
 
 .image img {
-  width: 300px;
   max-width: 100%;
-  height: auto;
+  max-height: 100%;
 }
 
-.text {
+.feature {
   display: flex;
   flex-direction: column;
   justify-content: center;
   height: 80vh;
+}
+
+.heading {
+  margin-bottom: .8rem;
+  color: #2B48FF;
+  font-size: 2rem;
+  font-weight: bold;
+  text-shadow: 1px 1px 0 rgba(0,24,179,.1), 2px 2px 0 rgba(0,24,179,.1), 3px 3px 0 rgba(0,24,179,.1);
+}
+
+.text {
+  font-size: 1.5rem;
 }
