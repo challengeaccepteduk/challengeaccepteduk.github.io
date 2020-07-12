@@ -3,6 +3,9 @@ import { container, image, content, feature, heading, text } from './Index.modul
 const Home = () => {
   return (
     <section className={container}>
+      <figure className={image}>
+        <img src="/Home/iphone-sample-yes-01_2x.png" alt="" />
+      </figure>
       <div className={content}>
         <div className={feature}>
           <h3 className={heading}>Discover challenges 👀</h3>
@@ -21,9 +24,6 @@ const Home = () => {
           <p className={text}>Create your own challenge from scratch based on your goals.</p>
         </div>
       </div>
-      <figure className={image}>
-        <img src="/Home/iphone-sample-yes-01_2x.png" alt="" />
-      </figure>
     </section>
   )
 }

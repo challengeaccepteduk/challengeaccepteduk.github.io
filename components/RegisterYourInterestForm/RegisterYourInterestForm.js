@@ -1,10 +1,10 @@
 import Button from '../Button';
 
-import { form, heading, layout, label, input } from './RegisterYourInterestForm.module.css';
+import { heading, layout, label, input } from './RegisterYourInterestForm.module.css';
 
 const RegisterYourInterestForm = () => {
   return (
-    <form className={form}>
+    <form>
       <legend className={heading}>Launch coming June 2020. Register to get first look access.</legend>
       <ul className={layout}>
         <li>

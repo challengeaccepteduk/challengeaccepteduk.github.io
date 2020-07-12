@@ -7,14 +7,27 @@
   max-width: var(--max-width);
   margin-right: auto;
   margin-left: auto;
-  padding: 8rem 1rem;
+  padding-top: 2rem;
+  padding-right: 1rem;
+  padding-bottom: 2rem;
+  padding-left: 1rem;
 }
 
 .heading {
-  max-width: 66.666%;
   padding-bottom: 1rem;
   color: var(--dark-theme-heading-text);
   font-size: 1.75rem;
   font-weight: 700;
   text-shadow: 1px 1px 0 rgba(179,140,15,.5), 2px 2px 0 rgba(179,140,15,.5), 3px 3px 0 rgba(179,140,15,.5);
+}
+
+@media (min-width: 48em) {
+  .container {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+
+  .heading {
+    max-width: 66.666%;
+  }
 }
