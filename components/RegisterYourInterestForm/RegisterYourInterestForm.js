@@ -8,8 +8,8 @@ const RegisterYourInterestForm = () => {
       <legend className={heading}>Launch coming June 2020. Register to get first look access.</legend>
       <ul className={layout}>
         <li>
-          <label htmlFor="email" className={label}>Enter your email address</label>
-          <input type="email" id="email" name="email" className={input} />
+          <label htmlFor="register-interest-email" className={label}>Enter your email address</label>
+          <input type="email" id="register-interest-email" name="register-interest-email" className={input} />
         </li>
         <li>
           <Button type="submit">Register your interest</Button>
