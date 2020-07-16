@@ -21,10 +21,9 @@
   text-align: center;
 }
 
-.download-button1{
-    width: 10%
+.iosbutton{
+    width: 15%;
 }
-
-.download-button2{
-    width: 17%
+.androidbutton{
+  width: 19%;
 }

@@ -16,13 +16,20 @@ const HomeEmail = () => {
             <p className="ctaheading">Download from Friday 17 July</p>
           </Col>
         </Row>
-        <Row>
-          <Col md={12}>
-              <a href="www.challengeacceptedapp.com" id="appstore" onclick=""><img className="download-button1" src={appstore} alt="Download PLay Store" /></a>
-              <a href="https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB" id="playstore" onclick=""><img className="download-button2" src={playstore} alt="Download App Store" /></a>
-          </Col>
-        </Row>
+        <div>
+          <a href="https://www.challengeacceptedapp.com" id="appstore">
+            <img
+                className="iosbutton" src={appstore}
+                alt="Download PLay Store"/>
+          </a>
+          <a href="https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB"
+             id="playstore">
+            <img className="androidbutton" src={playstore}
+                                 alt="Download App Store"/>
+          </a>
+        </div>
       </Container>
+
   )
 };
 
