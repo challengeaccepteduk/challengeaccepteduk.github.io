@@ -4,9 +4,6 @@ import './aboutAppFeaturesMobile.css'
 import aboutFlow from "../../assets/aboutflow.png";
 import Steph from "../../assets/Steph.png";
 import Paul from "../../assets/Paul.png";
-import lightbulb from "../../assets/Lightbulb.png";
-import pencil from "../../assets/pencil.png";
-import tickbox from "../../assets/tickbox.png";
 
 const AboutAppFeaturesMobile = () => {
   return (
@@ -195,55 +192,41 @@ const AboutAppFeaturesMobile = () => {
           </Col>
         </Row>
         <Row>
-          <Col>
-            <img className="profile-text-header-images-mobile-l" src={lightbulb}
-                 alt="Logo"/><br/>
-          </Col>
+
         </Row>
         <Row>
           <Col>
-            <div className="profile-text-mobile">Challenge Accepted started when we found ourselves actively working
-            on loads of our own challenges and tracking them in many different ways from a scratch map for travel,
-             a list on our phones for books to read that year, a 30-day squat challenge app, an app to track
-             football stadiums visited, starts on our Google maps for restaurants we wanted to visit, together
-              attempting to climb all 7 mountains around Bergen, and many more. Like many people we know, had
-              a million and one personal challenges we were trying to complete but had no one place to keep
-              track of them all, so we were unlikely to finish them or even forget we started some.
-            </div>
-          </Col>
-        </Row>
-        <Row>
-          <Col>
-            <img className="profile-text-header-images-mobile" src={pencil}
-                 alt="Logo"/><br/>
-          </Col>
-        </Row>
-        <Row>
-          <Col>
-            <div className="profile-text-mobile">
-             Our new challenge became creating an app to help us track and
-                therefore ultimately complete our many challenges.
-                <br/> <br/> Steph, given her background in brand and marketing across
-             large tech
-             companies and a start up app, took on the role of scoping the app design, defining the brand and business
-             plan. Along the way having to pick up some new skills from finance and legal to brushing up photoshop
-             skills. Paul, who has a background of programming at large tech, gaming, fitness and telco companies,
-              developed the website, app and CMS from scratch and managed all the product testing. This required
-              learning additional programming languages and new programming skills along the way.
-            </div>
-          </Col>
-        </Row>
-        <Row>
-          <Col>
-            <img className="profile-text-header-images-mobile" src={tickbox}
-                 alt="Logo"/><br/>
-          </Col>
-        </Row>
-        <Row>
-          <Col>
-            <div className="profile-text-mobile"> We’re currently in the testing phase and are on
-            track to launch the Challenge Accepted app on both the Google Play Store and Apple app store Summer 2020.
-            </div>
+
+                        <div className="profile-text"><br/>Challenge Accepted started when Paul & Steph found themselves actively working on loads
+                        of challenges and tracking them in so many different ways from a scratch map for travel,
+                         a list on phones for books to read that year, a 30-day squat challenge app, an app to track
+                         football stadiums visited, stars on Google maps for restaurants to visit, together
+                          attempting to climb all 7 mountains around Bergen, and more. Like many people, had a
+                           million and one personal challenges they were trying to complete but had no one place to keep track
+                           of them all, so were unlikely to finish them or even forget some.
+                        </div>
+                      </Col>
+                    </Row>
+                    <Row>
+
+
+                      <Col md={1}>
+                      </Col>
+                      <Col>
+                        <div className="profile-text"><br/>
+                    Our new challenge became creating an app to help us track and
+                                  therefore ultimately complete our many challenges.
+            <br/><br/>
+                                  Steph, given her background
+                                  in brand and marketing across large tech companies and a start up app,
+                    took on the role of scoping the app design, defining the brand and business plan. Along the way having
+                     to pick up some new skills from finance and legal to brushing up photoshop skills. Paul, who has a
+                     background of programming at large tech, gaming, fitness and telco companies, developed the website,
+                      app and CMS from scratch and managed all the product testing. This required learning additional programming
+                       languages and new programming skills along the way.<br/><br/>
+
+                       After months of testing the app, Challenge Accetped is available for launch Friday 17 July.
+                      </div>
           </Col>
         </Row>
       </Container>

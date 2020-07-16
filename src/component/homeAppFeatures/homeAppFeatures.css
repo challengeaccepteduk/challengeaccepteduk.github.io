@@ -17,28 +17,29 @@
 }
 
 .feature-logo{
-  width:40%
+  width:40% ;
+  padding-bottom: 10px
 }
 
 .feature-text{
-  font-size: 35px;
+  font-size: 30px;
 }
 
 .feature-text-large-one{
-  font-size: 35px;
+  font-size: 30px;
   padding: 150px 80px 100px 100px
 }
 .feature-text-large-two {
-  font-size: 35px;
+  font-size: 30px;
   padding: 150px 150px 0px 40px
 
 }
 .feature-text-large-three{
-  font-size: 35px;
+  font-size: 30px;
   padding: 220px 80px 100px 100px
 }
 .feature-text-large-four{
-  font-size: 35px;
+  font-size: 30px;
   padding: 150px 150px 0px 40px
 }
 

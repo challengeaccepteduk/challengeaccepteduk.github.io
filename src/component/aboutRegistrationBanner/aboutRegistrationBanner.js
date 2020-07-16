@@ -1,7 +1,8 @@
 import React from "react";
 import {Col, Container, Row} from "react-bootstrap";
 import './aboutRegistrationBanner.css'
-import {Link} from 'react-scroll'
+import appstore from "../../assets/download-appstore.svg";
+import playstore from "../../assets/download-playstore.png";
 
 const AboutRegistrationBanner = (props) => {
   return (
@@ -15,7 +16,8 @@ const AboutRegistrationBanner = (props) => {
             </Row>
             <Row>
               <Col>
-                <Link to="register" spy={true} smooth={true} duration={500} ><button className="about-register-button">Pre-register</button></Link>
+                <a href="www.challengeacceptedapp.com" id="appstore" onclick=""><img className="download-button1" src={appstore} alt="Download PLay Store" /></a>
+                <a href="https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB" id="playstore" onclick=""><img className="download-button2" src={playstore} alt="Downlod App Store" /></a>
               </Col>
             </Row>
           </Col>

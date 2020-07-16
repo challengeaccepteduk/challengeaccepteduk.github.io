@@ -1,6 +1,6 @@
 .home-container{
   background-color: #2A3746;
-  padding-bottom: 60px;
+  padding-bottom: 10px;
 }
 
 .logo-mobile{
@@ -11,18 +11,26 @@
   font-size: 25px;
   font-weight: bold;
   text-align: center;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 .challenge-subheader-mobile {
   color: #ffce2c;
   font-size: 15px;
   text-align: center;
-  padding-bottom: 40px;
+  padding-bottom: 10px;
 }
 
-.register-button-mobile {
-  color: white;
-  background-color: #60bd98;
-  font-size: 20px;
+.challenge-maintext {
+  color: #ffffff;
+  font-size: 10px;
+  text-align: center;
+  padding-bottom: 5px;
 }
 
+.download-button1{
+    width: 24%
+}
+
+.download-button2{
+    width: 32%
+}

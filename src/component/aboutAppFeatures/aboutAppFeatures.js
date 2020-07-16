@@ -4,9 +4,6 @@ import './aboutAppFeatures.css'
 import aboutFlow from "../../assets/aboutflow.png";
 import Steph from "../../assets/Steph.png";
 import Paul from "../../assets/Paul.png";
-import lightbulb from "../../assets/Lightbulb.png";
-import pencil from "../../assets/pencil.png";
-import tickbox from "../../assets/tickbox.png";
 
 const AboutAppFeatures = () => {
   return (
@@ -53,12 +50,15 @@ const AboutAppFeatures = () => {
           </Col>
         </Row>
         <Row className="feature-divider"></Row>
+        <Row className="feature-divider" />
         <Row>
           <Col>
             <div className="about-header-bold">Business Model</div>
             <img className="about-flow" src={aboutFlow} alt="Logo"/>
           </Col>
         </Row>
+        <Row className="feature-divider" />
+        <Row className="feature-divider" />
         <Row>
           <Col>
             <div className="about-header-bold">Founders</div>
@@ -100,7 +100,7 @@ const AboutAppFeatures = () => {
             </div>
           </Col>
           <Col md={5}>
-            <div className="profile-text">Intel, EE, BT, TodayTix<br/><br/><br/>Marketing
+            <div className="profile-text">Intel, EE, BT, TodayTix<br/><br/>Marketing
               Management BA from <br/>DeMontfort University, 1st Class Hons<br/><br/>
               App scope & design, business development & operations, brand & marketing, finance<br/><br/>30 days of Yoga with Adriene on YouTube<br/>Visiting
               every country in Europe
@@ -112,33 +112,28 @@ const AboutAppFeatures = () => {
         <Row className="feature-divider"></Row>
         <Row>
           <Col>
-            <div className="about-header-bold">Our Story<br/><br/></div>
+            <div className="about-header-bold">Our Story<br/></div>
           </Col>
         </Row>
         <Row>
-          <Col md={1}></Col>
           <Col md={1}>
-              <img className="profile-text-header-images" src={lightbulb}
-                   alt="Logo"/><br/>
+
           </Col>
           <Col>
-            <div className="profile-text"><br/>Challenge Accepted started when we found ourselves actively working on loads
-            of our own challenges and tracking them in many different ways from a scratch map for travel,
-             a list on our phones for books to read that year, a 30-day squat challenge app, an app to track
-             football stadiums visited, starts on our Google maps for restaurants we wanted to visit, together
-              attempting to climb all 7 mountains around Bergen, and many more. Like many people we know, had a
-               million and one personal challenges we were trying to complete but had no one place to keep track
-               of them all, so we were unlikely to finish them or even forget we started some.
+            <div className="profile-text"><br/>Challenge Accepted started when Paul & Steph found themselves actively working on loads
+            of challenges and tracking them in so many different ways from a scratch map for travel,
+             a list on phones for books to read that year, a 30-day squat challenge app, an app to track
+             football stadiums visited, stars on Google maps for restaurants to visit, together
+              attempting to climb all 7 mountains around Bergen, and more. Like many people, had a
+               million and one personal challenges they were trying to complete but had no one place to keep track
+               of them all, so were unlikely to finish them or even forget some.
             </div>
           </Col>
-          <Col md={1}></Col>
         </Row>
         <Row>
-          <Col md={1}></Col>
+
 
           <Col md={1}>
-            <br/><br/><img className="profile-text-header-images-p" src={pencil}
-                 alt="Logo"/>
           </Col>
           <Col>
             <div className="profile-text"><br/>
@@ -151,23 +146,18 @@ const AboutAppFeatures = () => {
          to pick up some new skills from finance and legal to brushing up photoshop skills. Paul, who has a
          background of programming at large tech, gaming, fitness and telco companies, developed the website,
           app and CMS from scratch and managed all the product testing. This required learning additional programming
-           languages and new programming skills along the way.<br/>
+           languages and new programming skills along the way.<br/><br/>
+
+           After months of testing the app, Challenge Accetped is available for launch Friday 17 July.
           </div>
         </Col>
           <Col md={1}></Col>
         </Row>
         <Row>
-          <Col md={1}></Col>
           <Col md={1}>
-            <img className="profile-text-header-images-t" src={tickbox}
-                 alt="Logo"/>
+
           </Col>
-          <Col>
-            <div className="profile-text">
-              <br/>We’re currently in the testing phase and are on track to launch the Challenge Accepted app on both the Google Play Store
-               and Apple app store Summer 2020.
-            </div>
-          </Col>
+
           <Col md={1}></Col>
         </Row>
 
