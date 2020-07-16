@@ -22,7 +22,7 @@ const HomeRegistrationBanner = (props) => {
               </Col>
               <Col>
                 <p className="challenge-subheader">Discover, track and complete<br /> your challenges all in one place.</p>
-                <p className="challenge-maintext">Available Friday 17 July on</p>
+                <p className="challenge-maintext-desktop">Available Friday 17 July on</p>
               </Col>
             </Row>
             <Row>
