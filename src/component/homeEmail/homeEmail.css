@@ -8,12 +8,22 @@
   text-align: left;
 }
 .launch-coming{
-  color: white;
-  font-size: 60px;
+  color: #ffce2c;
+  font-size: 40px;
   padding-top: -10px;
   text-align: center;
 }
-.well-contact{
+
+.ctaheading{
   color: white;
-  font-size: 15px;
+  font-size: 20px;
+  padding-top: -10px;
+  text-align: center;
+}
+
+.iosbutton{
+    width: 15%;
+}
+.androidbutton{
+  width: 19%;
 }

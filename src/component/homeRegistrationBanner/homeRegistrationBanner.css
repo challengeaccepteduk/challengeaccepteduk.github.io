@@ -1,16 +1,8 @@
 .home-container{
   /*padding: 10px;*/
   background-color: #2A3746;
-  padding-bottom: 60px;
+  padding-bottom: 10px;
 
-}
-.active-tab{
-  color: #ffce2c;
-  padding: 10px;
-}
-.inactive-tab{
-  padding: 10px;
-  color: white;
 }
 
 .challenge-header {
@@ -23,17 +15,27 @@
 
 .challenge-subheader {
   color: #ffce2c;
-  font-size: 33px;
+  font-size: 30px;
   text-align: center;
-  padding-bottom: 40px;
+  padding-bottom: 10px;
 }
 
-.register-button {
-  color: white;
-  background-color: #60bd98;
-  font-size: 35px;
+.challenge-maintext {
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 5px;
 }
+
+
 .logo{
   width: 80%
 }
 
+.download-button1{
+    width: 29%
+}
+
+.download-button2{
+    width: 37%
+}

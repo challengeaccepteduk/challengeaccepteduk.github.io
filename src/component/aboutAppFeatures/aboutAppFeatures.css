@@ -12,15 +12,15 @@
   height: 60px;
 }
 .about-feature-text{
-  font-size: 25px;
+  font-size: 20px;
 }
 .about-feature-header{
-  font-size: 25px;
+  font-size: 20px;
   text-align: center;
   font-weight: bold;
 }
 .about-header-bold{
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
   font-weight: bold;
 }
@@ -37,9 +37,8 @@
   font-weight: bold;
 }
 .profile-text{
-  padding-left:60px;
-  font-size: 22px;
-  text-align: left;
+    font-size: 20px;
+    text-align: center;
 }
 .profile-text-header{
   font-size: 22px;

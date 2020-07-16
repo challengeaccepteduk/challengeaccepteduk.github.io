@@ -5,22 +5,20 @@
 
 }
 
-
 .contact-subheader {
   color: #ffce2c;
   font-size: 40px;
   text-align: center;
   padding-bottom: 40px;
 }
-
-.contact-register-button {
-  color: white;
-  background-color: #60bd98;
-  font-size: 35px;
-  padding-left: 30px;
-  padding-right: 30px;
-}
 .logo{
   width: 80%
 }
 
+.download-button1{
+    width: 29%
+}
+
+.download-button2{
+    width: 37%
+}

@@ -8,7 +8,7 @@ const ContactBanner = () => {
           <Col>
             <Row>
               <Col>
-                <p className="contact-subheader">To find out more about opportunities at launch, get in <br/>touch with us below.</p>
+                <p className="contact-subheader">To find out about partnership opportunities, please<br/>get in touch with us using the form below.</p>
               </Col>
             </Row>
           </Col>

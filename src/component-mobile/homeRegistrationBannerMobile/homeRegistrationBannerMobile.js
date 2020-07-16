@@ -2,7 +2,8 @@ import React from "react";
 import {Col, Container, Row} from "react-bootstrap";
 import './homeRegistrationBannerMobile.css'
 import logo from '../../assets/mainlogo.png'
-import {Link} from 'react-scroll'
+import appstore from "../../assets/download-appstore.svg";
+import playstore from "../../assets/download-playstore.png";
 
 const HomeRegistrationBannerMobile = () => {
   return (
@@ -20,14 +21,15 @@ const HomeRegistrationBannerMobile = () => {
         <Row>
           <Col>
             <p className="challenge-subheader-mobile">Discover, track and complete<br /> your challenges all in one place.</p>
+            <p className="challenge-maintext">Available Friday 17 July on</p>
           </Col>
         </Row>
         <Row>
           <Col md={2}>
           </Col>
           <Col>
-
-            <Link to="register" spy={true} smooth={true} duration={500} ><button className="register-button-mobile">Register for Beta</button></Link>
+            <a href="www.challengeacceptedapp.com" id="appstore" onclick=""><img className="download-button1" src={appstore} alt="Download PLay Store" /></a>
+            <a href="https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB" id="playstore" onclick=""><img className="download-button2" src={playstore} alt="Downlod App Store" /></a>
           </Col>
         </Row>
       </Container>

@@ -4,11 +4,22 @@
 }
 .launch-coming-mobile{
   color: white;
-  font-size: 25px;
+  font-size: 15px;
   padding-top: -10px;
   text-align: center;
 }
-.well-contact-mobile{
+
+.ctaheading{
   color: white;
-  font-size: 9px;
+  font-size: 15px;
+  padding-top: -10px;
+  text-align: center;
+}
+
+.download-button1{
+    width: 10%
+}
+
+.download-button2{
+    width: 17%
 }
