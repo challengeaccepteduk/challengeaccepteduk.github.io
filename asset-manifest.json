@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/challengeaccepteduk.github.io/static/css/main.840a0666.chunk.css",
-    "main.js": "/challengeaccepteduk.github.io/static/js/main.eb769f36.chunk.js",
-    "main.js.map": "/challengeaccepteduk.github.io/static/js/main.eb769f36.chunk.js.map",
+    "main.css": "/challengeaccepteduk.github.io/static/css/main.f5742224.chunk.css",
+    "main.js": "/challengeaccepteduk.github.io/static/js/main.fa736061.chunk.js",
+    "main.js.map": "/challengeaccepteduk.github.io/static/js/main.fa736061.chunk.js.map",
     "runtime-main.js": "/challengeaccepteduk.github.io/static/js/runtime-main.81f3cdb3.js",
     "runtime-main.js.map": "/challengeaccepteduk.github.io/static/js/runtime-main.81f3cdb3.js.map",
     "static/css/2.cae63205.chunk.css": "/challengeaccepteduk.github.io/static/css/2.cae63205.chunk.css",
     "static/js/2.184beb53.chunk.js": "/challengeaccepteduk.github.io/static/js/2.184beb53.chunk.js",
     "static/js/2.184beb53.chunk.js.map": "/challengeaccepteduk.github.io/static/js/2.184beb53.chunk.js.map",
     "index.html": "/challengeaccepteduk.github.io/index.html",
-    "precache-manifest.4de1c1c83a63f5ef1be6f9c0d0901b69.js": "/challengeaccepteduk.github.io/precache-manifest.4de1c1c83a63f5ef1be6f9c0d0901b69.js",
+    "precache-manifest.48002d0be148d5363500655a97296de1.js": "/challengeaccepteduk.github.io/precache-manifest.48002d0be148d5363500655a97296de1.js",
     "service-worker.js": "/challengeaccepteduk.github.io/service-worker.js",
     "static/css/2.cae63205.chunk.css.map": "/challengeaccepteduk.github.io/static/css/2.cae63205.chunk.css.map",
-    "static/css/main.840a0666.chunk.css.map": "/challengeaccepteduk.github.io/static/css/main.840a0666.chunk.css.map",
+    "static/css/main.f5742224.chunk.css.map": "/challengeaccepteduk.github.io/static/css/main.f5742224.chunk.css.map",
     "static/js/2.184beb53.chunk.js.LICENSE.txt": "/challengeaccepteduk.github.io/static/js/2.184beb53.chunk.js.LICENSE.txt",
     "static/media/Paul.png": "/challengeaccepteduk.github.io/static/media/Paul.43cb1409.png",
     "static/media/Steph.png": "/challengeaccepteduk.github.io/static/media/Steph.1c69bb4f.png",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.81f3cdb3.js",
     "static/css/2.cae63205.chunk.css",
     "static/js/2.184beb53.chunk.js",
-    "static/css/main.840a0666.chunk.css",
-    "static/js/main.eb769f36.chunk.js"
+    "static/css/main.f5742224.chunk.css",
+    "static/js/main.fa736061.chunk.js"
   ]
 }

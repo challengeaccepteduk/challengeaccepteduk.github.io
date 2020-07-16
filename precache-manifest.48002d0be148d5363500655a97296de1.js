@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3f0ba835a4f66acf54c69446379104c",
+    "revision": "cf9c384a584efcbba55794e9464f8b26",
     "url": "/challengeaccepteduk.github.io/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/challengeaccepteduk.github.io/static/css/2.cae63205.chunk.css"
   },
   {
-    "revision": "3a5f551917c73c563140",
-    "url": "/challengeaccepteduk.github.io/static/css/main.840a0666.chunk.css"
+    "revision": "dc6cfec49b3d91af4cd8",
+    "url": "/challengeaccepteduk.github.io/static/css/main.f5742224.chunk.css"
   },
   {
     "revision": "d4c25190a20ad088b0f5",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/challengeaccepteduk.github.io/static/js/2.184beb53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a5f551917c73c563140",
-    "url": "/challengeaccepteduk.github.io/static/js/main.eb769f36.chunk.js"
+    "revision": "dc6cfec49b3d91af4cd8",
+    "url": "/challengeaccepteduk.github.io/static/js/main.fa736061.chunk.js"
   },
   {
     "revision": "7e28005cfcd36c3bc09a",
