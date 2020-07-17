@@ -28,7 +28,7 @@ const HomeRegistrationBannerMobile = () => {
           <Col md={2}>
           </Col>
           <Col>
-            <a href="www.challengeacceptedapp.com" id="appstore" onclick=""><img className="download-button1" src={appstore} alt="Download PLay Store" /></a>
+            <a href="https://apps.apple.com/us/app/id1517580212" id="appstore" onclick=""><img className="download-button1" src={appstore} alt="Download PLay Store" /></a>
             <a href="https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB" id="playstore" onclick=""><img className="download-button2" src={playstore} alt="Downlod App Store" /></a>
           </Col>
         </Row>

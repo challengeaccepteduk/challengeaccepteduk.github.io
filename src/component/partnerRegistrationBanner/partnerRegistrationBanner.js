@@ -16,7 +16,7 @@ const PartnerRegistrationBanner = () => {
           </Col>
         </Row>
         <div>
-          <a href="https://www.challengeacceptedapp.com" id="appstore">
+          <a href="https://apps.apple.com/us/app/id1517580212" id="appstore">
             <img
                 className="iosbutton" src={appstore}
                 alt="Download PLay Store"/>
