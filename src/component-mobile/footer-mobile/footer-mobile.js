@@ -26,8 +26,8 @@ const FooterMobile = () => {
           <Col>
             <div className="active-footer-mobile">App</div>
             <div className="inactive-footer-mobile">
-            <a className="inactive-footer-mobile" href="https://apps.apple.com/us/app/id1517580212">Apple Download Link</a> <br/>
-            <a className="inactive-footer-mobile" href="https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB">Android Download Link</a> <br/>
+            <a className="inactive-footer-mobile" href="https://apps.apple.com/us/app/id1517580212">Apple Download</a> <br/>
+            <a className="inactive-footer-mobile" href="https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB">Android Download</a> <br/>
             </div>
             </Col>
         </Row>
