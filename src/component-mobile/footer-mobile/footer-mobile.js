@@ -26,8 +26,8 @@ const FooterMobile = () => {
             </div>          </Col>
           <Col>
             <div className="active-footer-mobile">App</div>
-            <ScrollLink to="register" spy={true} smooth={true} duration={500} ><div className="inactive-footer-mobile">Pre-register</div></ScrollLink>
-          </Col>
+            <a className="inactive-footer-mobile" href="https://apps.apple.com/us/app/id1517580212">Apple Download Link</a> <br/>
+            <a className="inactive-footer-mobile" href="https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB">Android Download Link</a> <br/>          </Col>
         </Row>
       </Container>
   )

@@ -3,6 +3,7 @@ import {Col, Container, Row} from "react-bootstrap";
 import './footer.css'
 import {Link} from "react-router-dom";
 import {Link as ScrollLink} from "react-scroll";
+import appstore from "../../assets/download-appstore.svg";
 const Footer = () => {
   return (
       <div>
@@ -29,7 +30,8 @@ const Footer = () => {
           </Col>
           <Col>
             <div className="active-footer">App</div>
-            <ScrollLink to="register" spy={true} smooth={true} duration={500} ><div className="inactive-footer">Pre-register</div></ScrollLink>
+            <a className="inactive-footer" href="https://apps.apple.com/us/app/id1517580212">Apple Download Link</a> <br/>
+            <a className="inactive-footer" href="https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB">Android Download Link</a> <br/>
           </Col>
         </Row>
       </Container>
