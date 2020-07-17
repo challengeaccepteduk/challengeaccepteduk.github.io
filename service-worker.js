@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/challengeaccepteduk.github.io/precache-manifest.b68815c6815979d9f34bb5c70775fc0b.js"
+  "/challengeaccepteduk.github.io/precache-manifest.d2f2d3aefa2c41fe836b7a8442f3fe55.js"
 );
 
 self.addEventListener('message', (event) => {
