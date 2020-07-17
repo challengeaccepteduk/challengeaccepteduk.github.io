@@ -2,7 +2,6 @@ import React from "react";
 import {Col, Container, Row} from "react-bootstrap";
 import './footer-mobile.css'
 import {Link} from "react-router-dom";
-import {Link as ScrollLink} from "react-scroll";
 const FooterMobile = () => {
   return (
       <Container fluid className="footer-container">
@@ -26,8 +25,11 @@ const FooterMobile = () => {
             </div>          </Col>
           <Col>
             <div className="active-footer-mobile">App</div>
+            <div className="inactive-footer-mobile">
             <a className="inactive-footer-mobile" href="https://apps.apple.com/us/app/id1517580212">Apple Download Link</a> <br/>
-            <a className="inactive-footer-mobile" href="https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB">Android Download Link</a> <br/>          </Col>
+            <a className="inactive-footer-mobile" href="https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB">Android Download Link</a> <br/>
+            </div>
+            </Col>
         </Row>
       </Container>
   )
