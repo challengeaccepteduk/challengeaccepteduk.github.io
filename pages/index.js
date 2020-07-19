@@ -3,6 +3,7 @@ import { container, image, content, feature, heading, text } from './Index.modul
 
 const featuresContent = [
   {
+    image: '/Home/iphone-sample-yes-01_2x.png',
     heading: 'Discover challenges 👀',
     text: 'Discover challenges in the things you love from sport, travel, health & fitness, food and more. Or create your own challenge.',
   },
@@ -20,10 +21,6 @@ const featuresContent = [
   },
 ];
 
-const featuresImages = [
-  '/Home/iphone-sample-yes-01_2x.png',
-];
-
 const Home = () => {
   const featuresList = useRef(null);
   const featuresImage = useRef(null);
@@ -35,7 +32,7 @@ const Home = () => {
     const observer = new IntersectionObserver((entries, observer) => {
       const target = entries && entries.length && entries.filter(entry => entry.isIntersecting).target;
       const item = target && target.getAttribute('data-item');
-      if (item) return setCurrentFeature(parseInt(item));
+      if (item) setCurrentFeature(parseInt(item));
     }, { threshold: .8 });
 
     features.forEach(feature => observer.observe(feature));
@@ -44,12 +41,10 @@ const Home = () => {
     return () => observer.disconnect();
   });
 
-  console.log({currentFeature})
-
   return (
     <section className={container}>
       <figure className={image}>
-        <img src={featuresImages[currentFeature]} alt="" ref={featuresImage} />
+        <img src={featuresContent[currentFeature] && featuresContent[currentFeature].image} alt="" ref={featuresImage} />
       </figure>
       <div className={content} ref={featuresList}>
         {featuresContent.map((content, i) => {
