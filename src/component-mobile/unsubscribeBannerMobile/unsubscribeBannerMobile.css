@@ -1,0 +1,24 @@
+.contact-register-container-mobile{
+  background-color: #2A3746;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.contact-subheader-mobile {
+  color: #ffce2c;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.contact-register-button {
+  color: white;
+  background-color: #60bd98;
+  font-size: 35px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.logo{
+  width: 80%
+}
+

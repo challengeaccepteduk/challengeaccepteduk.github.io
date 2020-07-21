@@ -16,6 +16,7 @@ import AppContainer from "./AppContainer";
 import CookieConsent from "react-cookie-consent";
 import Cookies from "./screens/cookies/cookies";
 import TermsPage from "./screens/terms/TermsPage";
+import Unsubscribe from "./screens/unsubscribe/unsubscribe";
 
 const trackingId = "UA-164273150-1";
 ReactGA.initialize(trackingId);
@@ -42,6 +43,9 @@ function App() {
               </Route>
               <Route path='/contact'>
                 <Contact width={width}/>
+              </Route>
+              <Route path='/unsubscribe'>
+                <Unsubscribe width={width}/>
               </Route>
               <Route path='/blog'>
                 <Blog width={width}/>
