@@ -37,8 +37,19 @@
 .content tr {
   border: 1px solid #9e9e9e;
 }
-.content tr:nth-child(odd) {
-  background-color: #fff;
+
+.content thead tr,
+.content thead th {
+  background-color: var(--dark-theme-background);
+  color: var(--dark-theme-text);
+}
+
+.content thead th {
+  border-color: transparent;
+}
+
+.content tbody tr:nth-child(odd) {
+  background-color: var(--dark-theme-text);
 }
 
 .content tbody th {
@@ -56,7 +67,7 @@
 }
 
 .content a {
-  color: #2B48FF;
+  color: var(--light-theme-link);
   text-decoration: none;
   transition: color .4s ease-in-out 0s;
 }
@@ -64,6 +75,6 @@
 .content a:hover,
 .content a:active,
 .content a:focus {
-  color: #0018B3;
+  color: var(--light-theme-link-haf);
   text-decoration: underline;
 }

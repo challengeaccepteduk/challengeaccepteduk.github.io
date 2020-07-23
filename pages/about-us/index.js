@@ -16,12 +16,20 @@ const AboutUs = () => {
 
       <h2>Founders</h2>
       <table>
-        <tbody>
+        <thead>
           <tr>
             <th>&nbsp;</th>
-            <th>Paul Johnson</th>
-            <th>Steph Mandeville</th>
+            <th>
+              <img src="/AboutUs/Paul.png" alt="" width="150" /><br />
+              Paul Johnson
+            </th>
+            <th>
+              <img src="/AboutUs/Steph.png" alt="" width="150" /><br />
+              Steph Mandeville
+            </th>
           </tr>
+        </thead>
+        <tbody>
           <tr>
             <th>Experience</th>
             <td>

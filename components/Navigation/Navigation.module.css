@@ -1,3 +1,15 @@
+@keyframes logo-animation {
+  0% {
+    transform: translate3d(0, 1rem, 0);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+
 .container {
   max-width: var(--max-width);
   margin-right: auto;
@@ -16,7 +28,7 @@
 
 .logo {
   width: 60px;
-  text-align: left;
+  animation: logo-animation ease 1s 1;
 }
 
 .logo img {

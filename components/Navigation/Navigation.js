@@ -5,7 +5,7 @@ import { container, logo, navigation, link } from './Navigation.module.css';
 const Navigation = () => (
   <nav>
     <div className={container}>
-      <div className={logo}><img src="/logo192.png" alt="" /></div>
+      <div className={logo}><img src="/logo-192-transparent.png" alt="" /></div>
       <ul className={navigation}>
         <li>
           <Link href="/">

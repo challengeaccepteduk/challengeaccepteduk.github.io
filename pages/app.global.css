@@ -11,6 +11,8 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
   --light-theme-text: #2a3746;
   --light-theme-heading: #0018B3;
+  --light-theme-link: #2B48FF;
+  --light-theme-heading-haf: #0018B3;
 
   --dark-theme-text: #eee;
   --dark-theme-heading-text: #ffce2c;
