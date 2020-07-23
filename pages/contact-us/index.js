@@ -1,17 +1,12 @@
 import ContactUsForm from '../../components/ContactUsForm'
-import Content from '../../components/Content';
 
-const ContactUs = () => (
-  <Content>
-    <ContactUsForm />
-  </Content>
-);
+const ContactUs = () => <ContactUsForm />;
 
 export async function getStaticProps(context) {
   return {
     props: {
       pageTitle: 'Contact us',
-      headline: 'To find out more about opportunities at launch, get in touch with us below.',
+      headline: 'Please get in touch with us using the form below to find out about partnership opportunities',
       includeRegisterButton: false,
     },
   };

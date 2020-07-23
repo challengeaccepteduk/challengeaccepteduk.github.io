@@ -24,8 +24,23 @@ const AboutUs = () => {
           </tr>
           <tr>
             <th>Experience</th>
-            <td>GSK, Fujitsu, TomTom, William Hill, Sky</td>
-            <td>Intel, EE, BT, TodayTix</td>
+            <td>
+              <ul>
+                <li>GSK</li>
+                <li>Fujitsu</li>
+                <li>TomTom</li>
+                <li>William Hill</li>
+                <li>Sky</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Intel</li>
+                <li>EE</li>
+                <li>BT</li>
+                <li>TodayTix</li>
+              </ul>
+            </td>
           </tr>
           <tr>
             <th>University</th>
@@ -34,8 +49,20 @@ const AboutUs = () => {
           </tr>
           <tr>
             <th>Focus</th>
-            <td>Software development and test engineering</td>
-            <td>App scope & design, business development & operations, brand & marketing, finance</td>
+            <td>
+              <ul>
+                <li>Software development</li>
+                <li>test engineering</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>App scope & design</li>
+                <li>Business development & operations</li>
+                <li>Brand & marketing</li>
+                <li>Finance</li>
+              </ul>
+            </td>
           </tr>
           <tr>
             <th>Challenges</th>

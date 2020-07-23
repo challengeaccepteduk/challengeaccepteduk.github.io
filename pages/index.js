@@ -30,9 +30,11 @@ const Home = () => {
     // Get the direct descendents of the featuresList, as these are the actual features.
     const features = featuresList && featuresList.current.querySelectorAll(':scope > div');
     const observer = new IntersectionObserver((entries, observer) => {
-      const target = entries && entries.length && entries.filter(entry => entry.isIntersecting).target;
-      const item = target && target.getAttribute('data-item');
-      if (item) setCurrentFeature(parseInt(item));
+      const visibleFeature = entries.filter(({ isIntersecting }) => isIntersecting)[0];
+      const item = visibleFeature && visibleFeature.target && visibleFeature.target.getAttribute('data-item');
+      // // If there is an item value, convert it from a string into a number,
+      // // and set that value as the current feature.
+      if (item) return setCurrentFeature(parseInt(item));
     }, { threshold: .8 });
 
     features.forEach(feature => observer.observe(feature));

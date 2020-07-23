@@ -4,6 +4,7 @@ import './app.global.css';
 
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import PageContentWrapper from '../components/PageContentWrapper';
 
 const CustomApp = ({ Component, pageProps }) => {
   const { pageTitle } = pageProps;
@@ -14,7 +15,9 @@ const CustomApp = ({ Component, pageProps }) => {
         <title>Challenge Accepted {pageTitle && `| ${pageTitle}`}</title>
       </Head>
       <Header {...pageProps} />
-      <Component {...pageProps} />
+      <PageContentWrapper>
+        <Component {...pageProps} />
+      </PageContentWrapper>
       <Footer />
     </>
   );
