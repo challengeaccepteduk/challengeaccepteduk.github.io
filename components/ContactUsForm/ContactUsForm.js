@@ -52,16 +52,16 @@ const ContactUsForm = () => {
       {showErrorMessage && <p>Something went wrong. Please try again.</p>}
       <ul className={layout}>
         <li>
-          <label className={label} htmlFor="contact-us-name">Name</label>
+          <label className={label} htmlFor="contact-us-name">Name *</label>
           <input type="text" id="contact-us-name" name="contact-us-name" required ref={nameRef} className={input} />
+        </li>
+        <li>
+          <label className={label} htmlFor="contact-us-email">Enter your email address *</label>
+          <input type="email" id="contact-us-email" name="contact-us-email" required ref={emailRef} className={input} />
         </li>
         <li>
           <label className={label} htmlFor="contact-us-company">Company</label>
           <input type="text" id="contact-us-company" name="contact-us-company" ref={companyRef} className={input} />
-        </li>
-        <li>
-          <label className={label} htmlFor="contact-us-email">Enter your email address</label>
-          <input type="email" id="contact-us-email" name="contact-us-email" required ref={emailRef} className={input} />
         </li>
         <li>
           <label className={label} htmlFor="contact-us-phone-number">Enter your phone number</label>
@@ -72,7 +72,7 @@ const ContactUsForm = () => {
           <textarea id="contact-us-message" name="contact-us-message" ref={messageRef} className={input} />
         </li>
         <li>
-          <Button type="submit" disabled={disableFormSubmission}>Register your interest</Button>
+          <Button type="submit" disabled={disableFormSubmission}>Submit</Button>
         </li>
       </ul>
     </form>

@@ -2,14 +2,16 @@
 .content ul,
 .content ol {
   margin-bottom: 1rem;
+  font-size: 1.25rem;
 }
 
 .content h1,
 .content h2,
 .content h3,
 .content h4 {
-  margin-top: .5rem;
+  padding-top: 1rem;
   margin-bottom: 1rem;
+  font-size: 1.5rem;
   font-weight: 700;
 }
 
@@ -28,6 +30,7 @@
 
 .content table {
   margin-bottom: 1rem;
+  font-size: 1.25rem;
 }
 
 .content th {

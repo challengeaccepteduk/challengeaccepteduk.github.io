@@ -44,7 +44,7 @@ const Home = () => {
   });
 
   return (
-    <section className={container}>
+    <div className={container}>
       <figure className={image}>
         <img src={featuresContent[currentFeature] && featuresContent[currentFeature].image} alt="" ref={featuresImage} />
       </figure>
@@ -60,7 +60,7 @@ const Home = () => {
           );
         })}
       </div>
-    </section>
+    </div>
   )
 }
 

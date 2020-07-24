@@ -17,14 +17,14 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
   --dark-theme-text: #eee;
   --dark-theme-heading-text: #ffce2c;
 
-  --max-width: 64rem;
+  --max-width: 80rem;
 }
 
 html, body {
   background-color: var(--light-theme-background);
   color: var(--light-theme-text);
   font-family: 'Ubuntu', sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 1.25;
   letter-spacing: -.025rem;

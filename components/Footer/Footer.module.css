@@ -16,17 +16,17 @@
 
 .heading {
   padding-top: 1rem;
-  padding-bottom: .4rem;
+  padding-bottom: .5rem;
   color: var(--dark-theme-heading-text);
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-weight: 700;
 }
 
 .link {
   display: inline-block;
-  padding-top: .4rem;
+  padding-top: .5rem;
   color: var(--dark-theme-text);
-  font-size: .8rem;
+  font-size: 1rem;
   text-decoration: none;
 }
 

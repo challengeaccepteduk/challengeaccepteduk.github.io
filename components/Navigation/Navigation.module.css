@@ -39,16 +39,15 @@
 .link {
   display: inline-block;
   margin-left: 2rem;
-  padding: 1rem 0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   color: var(--dark-theme-heading-text);
-  font-size: .8rem;
+  font-size: 1rem;
   font-weight: 700;
   text-decoration: none;
-  /* text-shadow: 1px 1px 0 rgba(179,140,15,.5), 2px 2px 0 rgba(179,140,15,.5); */
   transition: color .4s ease-in-out 0s;
 }
 
 .link:hover {
-  color: #eee;
-  /* text-shadow: 1px 1px 0 rgba(31,40,51,.75), 2px 2px 0 rgba(31,40,51,.75); */
+  color: var(--dark-theme-text);
 }
