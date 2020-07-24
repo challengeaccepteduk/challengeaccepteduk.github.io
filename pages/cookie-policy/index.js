@@ -15,7 +15,8 @@ export async function getStaticProps(context) {
 
   return {
     props: {
-      pageTitle: 'Cookie policy',
+      seoTitle: 'Cookie policy',
+      seoDescription: 'Cookie policy',
       headline: 'Cookie policy',
       includeRegisterButton: false,
       pageContent,

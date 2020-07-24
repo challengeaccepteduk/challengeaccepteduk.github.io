@@ -7,12 +7,13 @@ import Footer from '../components/Footer';
 import PageContentWrapper from '../components/PageContentWrapper';
 
 const CustomApp = ({ Component, pageProps }) => {
-  const { pageTitle } = pageProps;
+  const { seoTitle, seoDescription } = pageProps;
 
   return (
     <>
       <Head>
-        <title>Challenge Accepted {pageTitle && `| ${pageTitle}`}</title>
+        <title>Challenge Accepted {seoTitle && `| ${seoTitle}`}</title>
+        {seoDescription && <meta name="description" content={seoDescription} />}
       </Head>
       <Header {...pageProps} />
       <PageContentWrapper>

@@ -17,7 +17,8 @@ const PartnerWithUs = () => {
 export async function getStaticProps(context) {
   return {
     props: {
-      pageTitle: 'Partner with us',
+      seoTitle: 'Partner with us',
+      seoDescription: 'Working with brands to engage customers in a unique way who we know are passionate about your product or industry.',
       headline: 'Working with brands to engage customers in a unique way who we know are passionate about your product or industry.',
       includeRegisterButton: false,
     },
