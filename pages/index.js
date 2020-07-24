@@ -3,19 +3,22 @@ import { container, image, content, feature, heading, text } from './Index.modul
 
 const featuresContent = [
   {
-    image: '/Home/iphone-sample-yes-01_2x.png',
+    image: '/Home/Discover-iPhone.png',
     heading: 'Discover challenges 👀',
     text: 'Discover challenges in the things you love from sport, travel, health & fitness, food and more. Or create your own challenge.',
   },
   {
+    image: '/Home/Reminder-iPhone.png',
     heading: 'Set reminders ⏰',
     text: 'Set notification reminders for your challenges based around your schedule.',
   },
   {
+    image: '/Home/Friends-iPhone.png',
     heading: 'Challenge friends 🙋‍',
     text: 'Add friends so you can share your progress and see what challenges each other are completing.',
   },
   {
+    image: '/Home/Create-Your-Own-iPhone.png',
     heading: 'Create your own challenges 📝',
     text: 'Create your own challenge from scratch based on your goals.',
   },

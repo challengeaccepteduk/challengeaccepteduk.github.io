@@ -24,7 +24,7 @@
 
 .heading {
   margin-bottom: 1rem;
-  color: var(--light-theme-heading);
+  color: var(--light-theme-text);
   font-size: 2.5rem;
   font-weight: 700;
   text-shadow:

@@ -78,6 +78,6 @@
 .content a:hover,
 .content a:active,
 .content a:focus {
-  color: var(--light-theme-link-haf);
+  color: var(--light-theme-heading-hover-active-focus);
   text-decoration: underline;
 }
