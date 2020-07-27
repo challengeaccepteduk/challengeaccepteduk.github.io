@@ -84,7 +84,7 @@ const ContactForm = () => {
                   <Form.Control ref={nameRef} placeholder="Name" />
                 </Form.Group>
                 <Form.Group as={Col} md={6} controlId="formGridNumber">
-                  <Form.Control ref={numberRef} placeholder="Blog number" />
+                  <Form.Control ref={numberRef} placeholder="Phone number" />
                 </Form.Group>
               </Form.Row>
               <Form.Group controlId="formGridMessage">
@@ -103,7 +103,7 @@ const ContactForm = () => {
         </Row>
         <Row>
           <Col>
-            <p>Or email us at hello@challengeacceptedapp.co.uk</p>
+            <p>Or email us at hello@challengeacceptedapp.com</p>
           </Col>
         </Row>
 
