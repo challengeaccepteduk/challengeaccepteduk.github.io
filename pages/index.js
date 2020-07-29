@@ -74,6 +74,7 @@ export async function getStaticProps() {
       seoDescription: 'Challenge Accepted. Discover, track and complete your challenges all in one place.',
       headline: 'Challenge Accepted. Discover, track and complete your challenges all in one place.',
       includeDownloadButtons: true,
+      includeRegisterButton: true,
     },
   };
 }

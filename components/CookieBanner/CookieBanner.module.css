@@ -1,0 +1,29 @@
+.wrapper {
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background-color: #0018B3;
+  color: #eee;
+}
+
+.container {
+  max-width: var(--max-width);
+  margin-right: auto;
+  margin-left: auto;
+  padding: .5rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container a {
+  color: #eee;
+  transition: color .4s ease-in-out 0s;
+}
+
+.container a:hover,
+.container a:active,
+.container a:focus {
+  color: #fff;
+}
