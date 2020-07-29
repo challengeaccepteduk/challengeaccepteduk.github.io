@@ -1,0 +1,13 @@
+.container {
+  padding-top: 1rem;
+}
+
+.container p {
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.container a {
+  margin-right: 1rem;
+}
