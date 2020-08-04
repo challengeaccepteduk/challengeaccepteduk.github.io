@@ -18,10 +18,6 @@
   color: var(--dark-theme-heading-text);
   font-size: 2.1875rem;
   font-weight: 700;
-  text-shadow:
-    1px 1px 0 rgba(179,140,15,.5),
-    2px 2px 0 rgba(179,140,15,.5),
-    3px 3px 0 rgba(179,140,15,.5);
 }
 
 @media (min-width: 48em) {

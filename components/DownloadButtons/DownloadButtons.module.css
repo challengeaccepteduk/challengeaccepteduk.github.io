@@ -3,6 +3,7 @@
 }
 
 .container p {
+  margin-top: 1rem;
   margin-bottom: 1rem;
   font-size: 1.25rem;
   font-weight: 700;

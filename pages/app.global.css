@@ -17,9 +17,9 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
   --dark-theme-text: #eee;
   --dark-theme-heading-text: #ffce2c;
 
-  --button-text: #eee;
-  --button-background: #2B48FF;
-  --button-background-hover-active-focus: #0018B3;
+  --button-text: #2a3746;
+  --button-background: #ffce2c;
+  --button-background-hover-active-focus: #CCA423;
 
   --max-width: 80rem;
 }

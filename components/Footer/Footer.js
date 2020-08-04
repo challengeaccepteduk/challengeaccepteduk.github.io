@@ -2,6 +2,7 @@ import Link from 'next/link';
 
 import RegisterYourInterestForm from '../RegisterYourInterestForm';
 import CookieBanner from '../CookieBanner';
+import DownloadButtons from '../DownloadButtons';
 
 import { FACEBOOK_URL, TWITTER_URL } from '../../constants/social';
 import { wrapper, container, navigation, heading, link } from './Footer.module.css';
@@ -11,6 +12,7 @@ const Footer = () => (
     <footer className={wrapper}>
       <div className={container}>
         <RegisterYourInterestForm />
+        <DownloadButtons />
         <ul className={navigation}>
           <li>
             <h3 className={heading}>Learn more about the Company</h3>

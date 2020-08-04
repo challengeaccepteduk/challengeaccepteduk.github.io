@@ -19,6 +19,7 @@ export async function getStaticProps(context) {
       seoDescription: 'About us',
       headline: 'About us',
       includeRegisterButton: false,
+      includeDownloadButtons: true,
       pageContent,
     },
   };
