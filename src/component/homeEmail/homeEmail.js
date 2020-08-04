@@ -10,10 +10,10 @@ const HomeEmail = () => {
       <Container fluid className="email-container">
         <Row>
           <Col md={12}>
-            <p className="launch-coming">Launch coming soon</p>
+            <p className="launch-coming">Try out the app for free today</p>
           </Col>
           <Col md={12}>
-            <p className="ctaheading">Download from Friday 17 July</p>
+            <p className="ctaheading">Available on Apple and Android today</p>
           </Col>
         </Row>
         <div>

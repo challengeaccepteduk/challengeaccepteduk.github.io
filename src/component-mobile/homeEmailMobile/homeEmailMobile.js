@@ -9,10 +9,10 @@ const HomeEmailMobile = () => {
       <Container fluid className="email-container-mobile">
         <Row>
             <Col md={12}>
-               <p className="launch-coming">Launch coming soon</p>
+               <p className="launch-coming">Now available to download</p>
              </Col>
              <Col md={12}>
-                    <p className="ctaheading">Download from Friday 17 July</p>
+                    <p className="ctaheading">Download for free on the Apple App Store or Google Play Store</p>
              </Col>
          </Row>
          <Row>

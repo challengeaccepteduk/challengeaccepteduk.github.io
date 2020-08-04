@@ -148,7 +148,7 @@ const AboutAppFeatures = () => {
           app and CMS from scratch and managed all the product testing. This required learning additional programming
            languages and new programming skills along the way.<br/><br/>
 
-           After months of testing the app, Challenge Accetped is available for launch Friday 17 July.
+           Challenge Accepted is now available to download for free on the Apple App Store and Google Play Store today.
           </div>
         </Col>
           <Col md={1}></Col>
