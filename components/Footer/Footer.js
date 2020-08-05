@@ -68,12 +68,12 @@ const Footer = () => (
             <ul>
               <li>
                 <Link href="Android download">
-                  <a className={link}>Android download</a>
+                  <a className={link}>Android Download</a>
                 </Link>
               </li>
               <li>
                 <Link href="">
-                  <a className={link}>Apple download</a>
+                  <a className={link}>Apple Download</a>
                 </Link>
               </li>
             </ul>
