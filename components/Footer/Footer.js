@@ -73,14 +73,10 @@ const Footer = () => (
             <h3 className={heading}>Download today</h3>
             <ul>
               <li>
-                <Link href="Android download">
                   <a href={PLAY_STORE} className={link}>Android download</a>
-                </Link>
               </li>
               <li>
-                <Link href="">
                   <a href={IOS_STORE} className={link}>Apple download</a>
-                </Link>
               </li>
             </ul>
           </li>
