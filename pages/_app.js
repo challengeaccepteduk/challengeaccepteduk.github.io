@@ -1,7 +1,8 @@
 import Head from 'next/head';
 
 import './app.global.css';
-
+import Router from "next/router";
+import withGA from "next-ga";
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import PageContentWrapper from '../components/PageContentWrapper';
@@ -24,4 +25,4 @@ const CustomApp = ({ Component, pageProps }) => {
   );
 };
 
-export default CustomApp;
+export default withGA("UA-164273150-1", Router)(CustomApp);

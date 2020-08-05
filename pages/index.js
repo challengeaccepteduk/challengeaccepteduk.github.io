@@ -1,6 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
 import { container, image, content, feature, heading, text } from './Index.module.css';
-
 const featuresContent = [
   {
     image: '/Home/Discover-iPhone.png',
