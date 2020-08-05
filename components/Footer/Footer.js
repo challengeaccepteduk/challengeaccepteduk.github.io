@@ -11,7 +11,7 @@ const Footer = () => (
   <>
     <footer className={wrapper}>
       <div className={container}>
-        <RegisterYourInterestForm />
+        {/*<RegisterYourInterestForm />*/}
         <DownloadButtons />
         <ul className={navigation}>
           <li>
