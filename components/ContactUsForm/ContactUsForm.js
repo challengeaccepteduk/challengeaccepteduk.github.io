@@ -48,7 +48,7 @@ const ContactUsForm = () => {
 
   return (
     <form onSubmit={handleSubmit}>
-      <legend className={heading}>Email us at <a href="mailto:hello@challengeacceptedapp.co.uk">hello@challengeacceptedapp.co.uk</a>, or fill out the form below.</legend>
+      <legend className={heading}>Email us at <a href="mailto:hello@challengeacceptedapp.com">hello@challengeacceptedapp.com</a>, or fill out the form below.</legend>
       {showErrorMessage && <p>Something went wrong. Please try again.</p>}
       <ul className={layout}>
         <li>

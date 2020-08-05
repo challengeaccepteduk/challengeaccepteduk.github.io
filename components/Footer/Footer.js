@@ -4,7 +4,7 @@ import RegisterYourInterestForm from '../RegisterYourInterestForm';
 import CookieBanner from '../CookieBanner';
 import DownloadButtons from '../DownloadButtons';
 
-import { FACEBOOK_URL, TWITTER_URL } from '../../constants/social';
+import { FACEBOOK_URL, TWITTER_URL, INSTAGRAM_URL, LINKEDIN_URL } from '../../constants/social';
 import { wrapper, container, navigation, heading, link } from './Footer.module.css';
 
 const Footer = () => (
@@ -15,7 +15,7 @@ const Footer = () => (
         <DownloadButtons />
         <ul className={navigation}>
           <li>
-            <h3 className={heading}>Learn more about the Company</h3>
+            <h3 className={heading}>Learn more</h3>
             <ul>
               <li>
                 <Link href="/about-us">
@@ -29,7 +29,7 @@ const Footer = () => (
               </li>
               <li>
                 <Link href="/latest-news">
-                  <a className={link}>Latest news</a>
+                  <a className={link}></a>
                 </Link>
               </li>
             </ul>
@@ -55,18 +55,25 @@ const Footer = () => (
             </ul>
           </li>
           <li>
-            <h3 className={heading}>Follow us online</h3>
+            <h3 className={heading}>Follow us</h3>
             <ul>
               <li><a href={FACEBOOK_URL} className={link}>Facebook</a></li>
               <li><a href={TWITTER_URL} className={link}>Twitter</a></li>
+              <li><a href={INSTAGRAM_URL} className={link}>Instagram</a></li>
+              <li><a href={LINKEDIN_URL} className={link}>LinkedIn</a></li>
             </ul>
           </li>
           <li>
-            <h3 className={heading}>Sign up to the App</h3>
+            <h3 className={heading}>Download today</h3>
             <ul>
               <li>
-                <Link href="/register-your-interest">
-                  <a className={link}>Register your interest</a>
+                <Link href="Android download">
+                  <a className={link}>Android download</a>
+                </Link>
+              </li>
+              <li>
+                <Link href="">
+                  <a className={link}>Apple download</a>
                 </Link>
               </li>
             </ul>

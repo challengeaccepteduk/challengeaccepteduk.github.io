@@ -6,6 +6,7 @@
     
 
 ## Business model
+<img src="/Business-model.png" alt="Challenge Accepteed Business model" width="700"/>
 
 For partners, this means a new route to talk to customers knowing that we’re aligning them with users who are passionate about their product or industry. Brands can partner with Challenge Accepted to create their own company challenge, sponsor challenges or categories, and promote deals to customers that help with their passions e.g. a cinema offer to help users complete a film challenge.
 
@@ -16,11 +17,11 @@ For partners, this means a new route to talk to customers knowing that we’re a
     <tr>
       <th>&nbsp;</th>
       <th>
-        <img src="/AboutUs/Paul.png" alt="" width="120" /><br />
+        <img src="/AboutUs/Paul.png" alt="Paul Johnson, Challenge Accepted" width="120" /><br />
         Paul Johnson
       </th>
       <th>
-        <img src="/AboutUs/Steph.png" alt="" width="120" /><br />
+        <img src="/AboutUs/Steph.png" alt="Steph Mandeville, Challenge Accepted" width="120" /><br />
         Steph Mandeville
       </th>
     </tr>
@@ -90,10 +91,14 @@ For partners, this means a new route to talk to customers knowing that we’re a
 
 ## Our story
 
-Challenge Accepted started when we found ourselves actively working on loads of our own challenges and tracking them in many different ways from a scratch map for travel, a list on our phones for books to read that year, a 30-day squat challenge app, an app to track football stadiums visited, starts on our Google maps for restaurants we wanted to visit, together attempting to climb all 7 mountains around Bergen, and many more. Like many people we know, had a million and one personal challenges we were trying to complete but had no one place to keep track of them all, so we were unlikely to finish them or even forget we started some.
+Challenge Accepted started when Paul & Steph found themselves actively working on loads of challenges and tracking them in so many different ways from a scratch map for travel, a list on phones for books to read that year, a 30-day squat challenge app, an app to track football stadiums visited, stars on Google maps for restaurants to visit, together attempting to climb all 7 mountains around Bergen, and more. Like many people, had a million and one personal challenges they were trying to complete but had no one place to keep track of them all, so were unlikely to finish them or even forget some.
 
 Our new challenge became creating an app to help us track and therefore ultimately complete our many challenges.
 
 Steph, given her background in brand and marketing across large tech companies and a start up app, took on the role of scoping the app design, defining the brand and business plan. Along the way having to pick up some new skills from finance and legal to brushing up photoshop skills. Paul, who has a background of programming at large tech, gaming, fitness and telco companies, developed the website, app and CMS from scratch and managed all the product testing. This required learning additional programming languages and new programming skills along the way.
 
-We’re currently in the testing phase and are on track to launch the Challenge Accepted app on both the Google Play Store and Apple app store in June 2020.
+Challenge Accepted is now available to download for free on the Apple App Store and Google Play Store.
+
+On 3 August Challenge Accepted won Small Business Sunday (SBS), ran by Retail Entrepreneur Theo Paphitis to help grow Challenge Accepted with access to the SBS network in the UK. 
+
+<img src="/SBS-Winner-Challenge-Accepted.png" alt="Challenge Accepted Business model" width="300"/>

@@ -48,7 +48,7 @@ const Home = () => {
   return (
     <div className={container}>
       <figure className={image}>
-        <img src={featuresContent[currentFeature] && featuresContent[currentFeature].image} alt="" ref={featuresImage} />
+        <img src={featuresContent[currentFeature] && featuresContent[currentFeature].image} alt="Challenge Accepted App Wireframe Features" ref={featuresImage} />
       </figure>
       <div className={content} ref={featuresList}>
         {featuresContent.map((content, i) => {
