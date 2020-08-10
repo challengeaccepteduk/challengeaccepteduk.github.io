@@ -6,7 +6,7 @@
     
 
 ## Business model
-<img src="/Business-model.png" alt="Challenge Accepteed Business model" width="700"/>
+<img src="/Business-model.png" alt="Challenge Accepted Business model" width="100%"/>
 
 For partners, this means a new route to talk to customers knowing that we’re aligning them with users who are passionate about their product or industry. Brands can partner with Challenge Accepted to create their own company challenge, sponsor challenges or categories, and promote deals to customers that help with their passions e.g. a cinema offer to help users complete a film challenge.
 
@@ -101,4 +101,4 @@ Challenge Accepted is now available to download for free on the Apple App Store 
 
 On 3 August Challenge Accepted won Small Business Sunday (SBS), ran by Retail Entrepreneur Theo Paphitis to help grow Challenge Accepted with access to the SBS network in the UK. 
 
-<img src="/SBS-Winner-Challenge-Accepted.png" alt="Challenge Accepted Business model" width="300"/>
+<img src="/SBS-Winner-Challenge-Accepted.png" alt="Challenge Accepted Business model" width="100%"/>
