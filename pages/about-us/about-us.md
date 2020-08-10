@@ -101,4 +101,4 @@ Challenge Accepted is now available to download for free on the Apple App Store 
 
 On 3 August Challenge Accepted won Small Business Sunday (SBS), ran by Retail Entrepreneur Theo Paphitis to help grow Challenge Accepted with access to the SBS network in the UK. 
 
-<img src="/SBS-Winner-Challenge-Accepted.png" alt="Challenge Accepted SBS winner" width="100%"/>
+<img src="/SBS-Winner-Challenge-Accepted.png" alt="Challenge Accepted Theo PaphitisSBS winner" width="100%"/>
