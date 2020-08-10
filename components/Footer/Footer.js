@@ -4,7 +4,13 @@ import RegisterYourInterestForm from '../RegisterYourInterestForm';
 import CookieBanner from '../CookieBanner';
 import DownloadButtons from '../DownloadButtons';
 
-import { FACEBOOK_URL, TWITTER_URL, INSTAGRAM_URL, LINKEDIN_URL } from '../../constants/social';
+import {
+  FACEBOOK_URL,
+  TWITTER_URL,
+  INSTAGRAM_URL,
+  LINKEDIN_URL,
+  PLAY_STORE, IOS_STORE
+} from '../../constants/social';
 import { wrapper, container, navigation, heading, link } from './Footer.module.css';
 
 const Footer = () => (
@@ -23,7 +29,7 @@ const Footer = () => (
                 </Link>
               </li>
               <li>
-                <Link href="/about-us">
+                <Link href="/contact-us">
                   <a className={link}>Contact us</a>
                 </Link>
               </li>
@@ -67,14 +73,10 @@ const Footer = () => (
             <h3 className={heading}>Download today</h3>
             <ul>
               <li>
-                <Link href="Android download">
-                  <a className={link}>Android Download</a>
-                </Link>
+                  <a href={PLAY_STORE} className={link}>Android download</a>
               </li>
               <li>
-                <Link href="">
-                  <a className={link}>Apple Download</a>
-                </Link>
+                  <a href={IOS_STORE} className={link}>Apple download</a>
               </li>
             </ul>
           </li>
