@@ -1,8 +1,16 @@
 import Link from 'next/link';
 
 import Content from '../components/Content';
+import { useRouter } from 'next/router'
 
+function RedirectPage() {
+  const router = useRouter()
+  if (typeof window !== 'undefined') {
+    router.push('/')
+  }
+}
 const Custom404 = () => {
+  RedirectPage();
   return (
     <Content>
       <p>Sorry, we can't find the page you are looking for 😦.</p>
