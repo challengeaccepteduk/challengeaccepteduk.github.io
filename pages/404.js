@@ -1,22 +1,18 @@
-import Link from 'next/link';
-
-import Content from '../components/Content';
+import Home from "./index";
 
 const Custom404 = () => {
   return (
-    <Content>
-      <p>Sorry, we can't find the page you are looking for 😦.</p>
-      <p>Please <Link href="/">head back to the homepage</Link>.</p>
-    </Content>
+      <Home />
   );
 };
 
 export async function getStaticProps() {
   return {
     props: {
-      seoTitle: '404',
-      seoDescription: '404',
-      headline: '404: Page not found',
+      seoTitle: 'Discover, track and complete your challenges all in one place',
+      seoDescription: 'Challenge Accepted. Discover, track and complete your challenges all in one place.',
+      headline: 'Challenge Accepted. Discover, track and complete your challenges all in one place.',
+      includeDownloadButtons: true,
       includeRegisterButton: false,
     },
   };
