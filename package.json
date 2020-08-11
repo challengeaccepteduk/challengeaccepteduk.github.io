@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export": "next export -o build && echo 'www.challengeacceptedapp.com' > ./build/CNAME",
+    "export": "next export -o build && echo 'www.challengeacceptedapp.com' > ./build/CNAME && rm ./build/404.html && cp ./build/index.html ./index/404.html",
     "start": "next start"
   },
   "dependencies": {
