@@ -45,7 +45,7 @@ module.exports = {
       },
     ]
   },
-  exportTrailingSlash: true,
+  trailingSlash: true,
   exportPathMap: function() {
     return {
       '/': { page: '/' }
