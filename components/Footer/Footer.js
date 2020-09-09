@@ -21,7 +21,7 @@ const Footer = () => (
         <DownloadButtons />
         <ul className={navigation}>
           <li>
-            <h3 className={heading}>Learn more</h3>
+            <h1 className={heading}>Learn more</h1>
             <ul>
               <li>
                 <Link href="/about-us">
@@ -41,7 +41,7 @@ const Footer = () => (
             </ul>
           </li>
           <li>
-            <h3 className={heading}>The legal bit</h3>
+            <h1 className={heading}>The legal bit</h1>
             <ul>
               <li>
                 <Link href="/privacy-policy">
@@ -61,7 +61,7 @@ const Footer = () => (
             </ul>
           </li>
           <li>
-            <h3 className={heading}>Follow us</h3>
+            <h1 className={heading}>Follow us</h1>
             <ul>
               <li><a href={FACEBOOK_URL} className={link}>Facebook</a></li>
               <li><a href={TWITTER_URL} className={link}>Twitter</a></li>
@@ -70,7 +70,7 @@ const Footer = () => (
             </ul>
           </li>
           <li>
-            <h3 className={heading}>Download today</h3>
+            <h1 className={heading}>Download Challenge Accepted</h1>
             <ul>
               <li>
                   <a href={PLAY_STORE} className={link}>Android download</a>
