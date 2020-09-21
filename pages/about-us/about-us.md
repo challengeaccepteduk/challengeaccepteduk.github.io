@@ -16,7 +16,7 @@ The Challenge Accepted app is now available to download for free on the <a href=
 
 **Passionate**
 
-We’re passionate about our product, passionate about finishing what we start and passionate about trying something new. Built into the Challenge Accepted DNA is helping people explore their passions more from travel, fitness, reading, sports to food. 
+We’re passionate about our product, passionate about finishing what we start and passionate about trying something new. Built into the Challenge Accepted DNA is helping people explore their passions more from travel, fitness, reading, sports to food and more. 
 
 **Sustainable**
 
