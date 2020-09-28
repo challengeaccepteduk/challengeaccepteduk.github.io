@@ -4,12 +4,12 @@ const featuresContent = [
   {
     image: '/Home/Discover-iPhone.png',
     heading: 'Discover challenges 👀',
-    text: 'Discover challenges in the things you love from sport, travel, health & fitness, food and more. Or create your own challenge.',
+    text: 'Discover challenges in the things you love from sport, travel, health & fitness, food, and more. Or create your own challenge.',
   },
   {
     image: '/Home/Reminder-iPhone.png',
     heading: 'Set reminders ⏰',
-    text: 'Set notification reminders for your challenges based around your schedule.',
+    text: 'Set notification reminders for your challenges based on your schedule.',
   },
   {
     image: '/Home/Friends-iPhone.png',
@@ -19,7 +19,7 @@ const featuresContent = [
   {
     image: '/Home/Create-Your-Own-iPhone.png',
     heading: 'Create your own challenges 📝',
-    text: 'Create your own challenge from scratch based on your goals.',
+    text: 'Create a challenge from scratch based on your goals, plus add friends to complete the challenge with you.',
   },
 ];
 
