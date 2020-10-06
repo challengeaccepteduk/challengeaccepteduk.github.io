@@ -9,7 +9,7 @@ const ContactUsForm = () => {
   const showSuccessMessage = submissionStatus === 'success';
   const showErrorMessage = submissionStatus === 'error';
   const disableFormSubmission = submissionStatus === 'loading';
-  
+
   const nameRef = useRef(null);
   const emailRef = useRef(null);
   const companyRef = useRef(null);
@@ -40,11 +40,11 @@ const ContactUsForm = () => {
     } catch (e) {
       console.error(e);
     }
-      
+
     return setSubmissionStatus('error');
   };
 
-  if (showSuccessMessage) return (<p>Thanks for contacing us</p>);
+  if (showSuccessMessage) return (<p>Thanks for contacting us</p>);
 
   return (
     <form onSubmit={handleSubmit}>
