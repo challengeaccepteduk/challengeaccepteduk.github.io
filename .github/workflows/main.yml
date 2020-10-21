@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [ next-js ]
+    branches: [next-js]
 
 jobs:
   build:
