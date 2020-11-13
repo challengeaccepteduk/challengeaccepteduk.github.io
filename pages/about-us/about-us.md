@@ -1,16 +1,17 @@
-## The Challenge Accepted app helps people discover, track, and complete all their challenges in one place. Such as:
-**Health & Fitness challenges** e.g. 30-day squat challenge or 30-day cardio challenge<br/>
-**Passion challenges** e.g. see every premiership football team <br/>
-**Challenges to do at home** e.g. 30-day yoga challenge or crafting ideas<br/>
-**New habits** e.g. cut down on drinking or get 30mins of exercise a day <br/>
-**Custom challenges** e.g. 12 books I'm going to read this year <br/>
+## The Challenge Accepted app helps people discover, track, and complete all their challenges in one place from:
+**Health & Fitness challenges** including 30-day squat challenge or 30-day walking challenge<br/>
+**Book challenges** including books to read by inspiration women or 12 books I'm going to read this year<br/>
+**Sport challenges** including see every premiership football team or track stadiums visited <br/>
+**Challenges to do at home** including 30-day yoga challenge or crafting ideas to try<br/>
+**Start new habits including** cutting down on drinking or getting your 30mins of exercise a day<br/>
+**Plus hundreds more.**
     
 ## About Challenge Accepted
 
 We are on a mission to give people the inspiration and tools to complete personal challenges, no matter how big or small. With hundreds of challenges for inspiration to start on Challenge Accepted, plus the ability to create your own challenge from scratch. <br/><br/>
-The Challenge Accepted app was created by Co-Founders <a href='https://www.linkedin.com/in/paulsjohnson91/'>Paul Johnson</a> and <a href='https://www.linkedin.com/in/stephaniemandeville/'>Steph Mandeville</a> during lockdown and launched in July 2020. Just 2 weeks into the launch, Challenge accepted won Small Business Sunday (SBS) by Retail Entrepreneur Theo Paphitis to help grow Challenge Accepted with access to the SBS network in the UK. <br/><br/>
+The Challenge Accepted app was created by <a href='https://www.linkedin.com/in/paulsjohnson91/'>Paul Johnson</a> and <a href='https://www.linkedin.com/in/stephaniemandeville/'>Steph Mandeville</a> during lockdown and launched in July 2020. Just 2 weeks into the launch, Challenge accepted won Small Business Sunday (SBS) by Retail Entrepreneur Theo Paphitis to help grow Challenge Accepted with access to the SBS network in the UK. <br/><br/>
 We are looking to work with brands to help engage their customers with their brand in a fun and unique way. Please <a href='https://www.challengeacceptedapp.com/contact-us/'>get in touch</a> if you’d like to discuss how we can work together. <br/><br/>
-The Challenge Accepted app is now available to download for free on the <a href='https://apps.apple.com/us/app/id1517580212'>Apple App Store</a> and <a href='https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB'>Google Play Store</a>. <br/>
+The Challenge Accepted app available to download for free on both the <a href='https://apps.apple.com/us/app/id1517580212'>Apple App Store</a> and <a href='https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB'>Google Play Store</a>. <br/>
 
 ## Challenge Accepted Values
 

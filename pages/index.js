@@ -4,23 +4,25 @@ const featuresContent = [
   {
     image: '/Home/Discover-iPhone.png',
     heading: 'Discover challenges 👀',
-    text: 'Discover challenges in the things you love from sport, travel, health & fitness, food, and more. Or create your own challenge.',
+    text: 'Discover new challenges from 30-day health & fitness challenges, reading challenges, TV & film challenges, travel challenges & more. Or create your own challenge from scratch.',
   },
+   {
+      image: '/Home/Friends-iPhone.png',
+      heading: 'Challenge friends 🙋‍',
+      text: 'Easily add friends by sharing your friend link. See what challenges each other are completing for inspiration and complete challenges together.',
+   },
+   {
+      image: '/Home/Create-Your-Own-iPhone.png',
+      heading: 'Create your own challenges 📝',
+      text: 'Create a challenge from scratch based on your goals, be it a list to tick off or your own calendar tracker to help you create new habits.',
+   },
   {
     image: '/Home/Reminder-iPhone.png',
     heading: 'Set reminders ⏰',
-    text: 'Set notification reminders for your challenges based on your schedule.',
+    text: 'Set notification reminders for your challenges to help keep you on track for a time & day that suits you.',
   },
-  {
-    image: '/Home/Friends-iPhone.png',
-    heading: 'Challenge friends 🙋‍',
-    text: 'Add friends so you can share your progress and see what challenges each other are completing.',
-  },
-  {
-    image: '/Home/Create-Your-Own-iPhone.png',
-    heading: 'Create your own challenges 📝',
-    text: 'Create a challenge from scratch based on your goals, plus add friends to complete the challenge with you.',
-  },
+
+
 ];
 
 const Home = () => {
