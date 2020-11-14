@@ -4,7 +4,7 @@ const featuresContent = [
   {
     image: '/Home/Discover-iPhone.png',
     heading: 'Discover challenges 👀',
-    text: 'Discover new challenges from 30-day health & fitness challenges, reading challenges, travel challenges & more. Or create your own.',
+    text: 'Discover challenges from 30-day health & fitness challenges, reading challenges, travel challenges & more. Or create your own.',
   },
    {
       image: '/Home/Friends-iPhone.png',
