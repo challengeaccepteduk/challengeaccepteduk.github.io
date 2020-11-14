@@ -4,12 +4,12 @@ const featuresContent = [
   {
     image: '/Home/Discover-iPhone.png',
     heading: 'Discover challenges 👀',
-    text: 'Discover new challenges from 30-day health & fitness challenges, reading challenges, TV & film challenges, travel challenges & more. Or create your own challenge from scratch.',
+    text: 'Discover new challenges from 30-day health & fitness challenges, reading challenges, travel challenges & more. Or create your own.',
   },
    {
       image: '/Home/Friends-iPhone.png',
       heading: 'Challenge friends 🙋‍',
-      text: 'Easily add friends by sharing your friend link. See what challenges each other are completing for inspiration and complete challenges together.',
+      text: 'Easily add friends by sharing your friend link. See what challenges each other are working on and complete challenges together.',
    },
    {
       image: '/Home/Create-Your-Own-iPhone.png',
