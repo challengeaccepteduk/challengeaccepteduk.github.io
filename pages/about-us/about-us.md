@@ -1,17 +1,24 @@
-## The Challenge Accepted app helps people discover, track, and complete all their challenges in one place from:
-**Health & Fitness challenges** including 30-day squat challenge or 30-day walking challenge<br/>
-**Book challenges** including books to read by inspiration women or 12 books I'm going to read this year<br/>
-**Sport challenges** including see every premiership football team or track stadiums visited <br/>
-**Challenges to do at home** including 30-day yoga challenge or crafting ideas to try<br/>
-**Start new habits including** cutting down on drinking or getting your 30mins of exercise a day<br/>
-**Plus hundreds more.**
+
     
 ## About Challenge Accepted
 
-We are on a mission to give people the inspiration and tools to complete personal challenges, no matter how big or small. With hundreds of challenges for inspiration to start on Challenge Accepted, plus the ability to create your own challenge from scratch. <br/><br/>
-The Challenge Accepted app was created by <a href='https://www.linkedin.com/in/paulsjohnson91/'>Paul Johnson</a> and <a href='https://www.linkedin.com/in/stephaniemandeville/'>Steph Mandeville</a> during lockdown and launched in July 2020. Just 2 weeks into the launch, Challenge accepted won Small Business Sunday (SBS) by Retail Entrepreneur Theo Paphitis to help grow Challenge Accepted with access to the SBS network in the UK. <br/><br/>
-We are looking to work with brands to help engage their customers with their brand in a fun and unique way. Please <a href='https://www.challengeacceptedapp.com/contact-us/'>get in touch</a> if you’d like to discuss how we can work together. <br/><br/>
-The Challenge Accepted app available to download for free on both the <a href='https://apps.apple.com/us/app/id1517580212'>Apple App Store</a> and <a href='https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB'>Google Play Store</a>. <br/>
+Challenge Accepted is a new free motivation and lifestyle app, launched in July 2020 and created by <a href='https://www.linkedin.com/in/paulsjohnson91/'>Paul Johnson</a> and <a href='https://www.linkedin.com/in/stephaniemandeville/'>Steph Mandeville</a> to help people discover, track and complete their challenges all in one place. Be it 30-day fitness challenges, reading lists, creating new habits and more.<br/> 
+
+We are on a mission to give people the inspiration and tools to complete personal challenges, no matter how big or small. There are hundreds of challenges on the app for people to start immediately as well as the ability for people to create their own list or calendar challenge to start new habits.  <br/>
+
+In August 2020, Challenge Accepted won Small Business Sunday (SBS) by BBC Dragon and Retail Entrepreneur Theo Paphitis and has since grown to over 1,000 downloads.<br/>
+
+The Challenge Accepted app available is to download for free on both the <a href='https://apps.apple.com/us/app/id1517580212'>Apple App Store</a> and <a href='https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB'>Google Play Store</a>. <br/>
+
+
+
+## Challenges
+There are hundreds of challenges on the app for people to star immediately from <br/><br/>
+**Health & Fitness challenges** from a 30-day squat challenge to 30-day walking challenge<br/>
+**Book challenges** from books to read by inspirational women to 12 books I'm going to read this year<br/>
+**Challenges to do at home** from 30-day yoga challenges to crafting ideas to try<br/>
+**Start new habits** from cutting down on drinking to getting your 30mins of exercise a day<br/><br/>
+Or create your own challenge!<br/>
 
 ## Challenge Accepted Values
 

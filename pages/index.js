@@ -4,17 +4,17 @@ const featuresContent = [
   {
     image: '/Home/Discover-iPhone.png',
     heading: 'Discover challenges 👀',
-    text: 'Discover challenges from 30-day health & fitness challenges, reading challenges, travel challenges & more. Or create your own.',
+    text: 'Start a new challenge from 30-day health & fitness challenges, reading lists, creating new habits & more.',
   },
    {
       image: '/Home/Friends-iPhone.png',
       heading: 'Challenge friends 🙋‍',
-      text: 'Easily add friends by sharing your friend link. See what challenges each other are working on and complete challenges together.',
+      text: 'Easily add your friends to see what challenges each other are working on and complete challenges together.',
    },
    {
       image: '/Home/Create-Your-Own-iPhone.png',
       heading: 'Create your own challenges 📝',
-      text: 'Create a challenge from scratch based on your goals, be it a list to tick off or your own calendar tracker to help you create new habits.',
+      text: 'Create a challenge from scratch, be it a list to tick off or your own calendar tracker to help you create new habits.',
    },
   {
     image: '/Home/Reminder-iPhone.png',
@@ -71,9 +71,9 @@ const Home = () => {
 export async function getStaticProps() {
   return {
     props: {
-      seoTitle: 'Discover, track and complete your challenges all in one place',
-      seoDescription: 'Challenge Accepted. Discover, track and complete your challenges all in one place.',
-      headline: 'Challenge Accepted. Discover, track and complete your challenges all in one place.',
+      seoTitle: 'Discover, track and complete all your challenges in one place',
+      seoDescription: 'Challenge Accepted. Discover, track and complete all your challenges in one place.',
+      headline: 'Challenge Accepted. Discover, track and complete all your challenges in one place.',
       includeDownloadButtons: true,
       includeRegisterButton: false,
     },
