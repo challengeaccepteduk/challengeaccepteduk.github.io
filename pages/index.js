@@ -9,7 +9,7 @@ const featuresContent = [
    {
       image: '/Home/Friends-iPhone.png',
       heading: 'Challenge friends 🙋‍',
-      text: 'Easily add your friends to see what challenges each other are working on and complete challenges together.',
+      text: 'Easily add your friends to see what each other are working on and complete challenges together.',
    },
    {
       image: '/Home/Create-Your-Own-iPhone.png',
@@ -19,7 +19,7 @@ const featuresContent = [
   {
     image: '/Home/Reminder-iPhone.png',
     heading: 'Set reminders ⏰',
-    text: 'Set notification reminders for your challenges to help keep you on track for a time & day that suits you.',
+    text: 'Set notification reminders for your challenges to help keep you on track for a time and day that suits you.',
   },
 
 
