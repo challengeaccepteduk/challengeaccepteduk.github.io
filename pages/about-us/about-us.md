@@ -24,7 +24,7 @@ Or create your own challenge!<br/>
 
 **Passionate**
 
-We are passionate about our product, passionate about finishing what we start, and passionate about trying something new. Built into the Challenge Accepted DNA is helping people explore their passions more from travel, fitness, reading, sports to food, and more. 
+We are passionate about our product, passionate about finishing what we start, and passionate about trying something new. We want to help people explore their passions from travel, fitness, reading, sports, food, and more. 
 
 **Sustainable**
 
@@ -36,4 +36,4 @@ Challenge Accepted is a brand for all people, we aim to host a huge breadth of c
 
 **Simple**
 
-We streamline everything we do, the most simple processes for both us and Challenge Accepted users.
+We streamline everything we do, creating the most simple processes for both us and Challenge Accepted users.

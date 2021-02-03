@@ -9,17 +9,17 @@ const featuresContent = [
    {
       image: '/Home/Friends-iPhone.png',
       heading: 'Challenge friends 🙋‍',
-      text: 'Easily add your friends to see what each other are working on and complete challenges together.',
+      text: 'Easily add friends to see what each other are working on and complete challenges together.',
    },
    {
       image: '/Home/Create-Your-Own-iPhone.png',
       heading: 'Create your own challenges 📝',
-      text: 'Create a challenge from scratch, be it a list to tick off or your own calendar tracker to help you create new habits.',
+      text: 'Create challenges from scratch, be it a list to tick off or your own calendar tracker to help you create new habits.',
    },
   {
     image: '/Home/Reminder-iPhone.png',
     heading: 'Set reminders ⏰',
-    text: 'Set notification reminders for your challenges to help keep you on track for a time and day that suits you.',
+    text: 'Set reminders for your challenges to help keep you on track for a time and day that suits you.',
   },
 
 
