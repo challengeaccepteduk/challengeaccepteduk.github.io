@@ -9,7 +9,8 @@ import {
   TWITTER_URL,
   INSTAGRAM_URL,
   LINKEDIN_URL,
-  PLAY_STORE, IOS_STORE
+  PLAY_STORE, IOS_STORE,
+  MEDIUM
 } from '../../constants/social';
 import { wrapper, container, navigation, heading, link } from './Footer.module.css';
 
@@ -35,7 +36,7 @@ const Footer = () => (
               </li>
               <li>
                 <Link href="/latest-news">
-                  <a className={link}></a>
+                  <a href={MEDIUM} className={link}>Blog</a>
                 </Link>
               </li>
             </ul>

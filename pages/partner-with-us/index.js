@@ -10,7 +10,8 @@ const PartnerWithUs = () => {
       <p>Sponsor categories or challenges on the app.</p>
       <h3>Demand Generation</h3>
       <p>Provide offers that help people complete their challenges.</p><br/><br/>
-      <p>We also support fundraising challenges on the app, if you are a registered charity please <a href="/contact-us">get in touch</a> to us to see how we can support your virtual fundraising challenges.</p>
+      <h2>Virtual fundraising challenges</h2>
+      <p>If you are a registered charity please <a href="/contact-us">get in touch</a> to us to see how we can support your virtual fundraising challenges. Since the launch of Challenge Accepted in July last year, we've supported charities including Stand Up To Cancer, Shine Cancer Support, RED January and the British Heart Foundation. We can host your fundraising challenges to help fundraisers stay motivated throughout the campaign. We can also work with you to help create new fundraising campaigns for your charity.</p>
     </Content>
   );
 };
