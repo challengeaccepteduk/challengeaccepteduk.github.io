@@ -35,9 +35,9 @@ const Footer = () => (
                 </Link>
               </li>
               <li>
-                <Link href="/latest-news">
+                <ul>
                   <a href={MEDIUM} className={link}>Blog</a>
-                </Link>
+                </ul>
               </li>
             </ul>
           </li>
