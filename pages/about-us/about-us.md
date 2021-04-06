@@ -46,7 +46,7 @@ Challenge Accepted is a brand for all people, we aim to host a huge breadth of c
 
 **Simple**
 
-We streamline everything we do, creating the most simple processes for both us and Challenge Accepted users.
+We streamline everything we do, creating the simple processes for both us and Challenge Accepted users.
 
 ## Our people
 **Steph Mandeville**<br/>
