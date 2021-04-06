@@ -42,7 +42,7 @@ We are committed to working efficiently and ethically, we are a completely onlin
 
 **Inclusive**
 
-Challenge Accepted is a brand for all people, we aim to host a huge breadth of challenges on the app so there’s something for everyone.
+We host a huge breadth of challenges on the app so there’s something for everyone.
 
 **Simple**
 

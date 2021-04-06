@@ -20,8 +20,8 @@ export async function getStaticProps(context) {
   return {
     props: {
       seoTitle: 'Partner with us',
-      seoDescription: 'Working with brands to create fun and interactive challenges',
-      headline: 'Working with brands to create fun and interactive challenges',
+      seoDescription: 'Working with brands to create fun, interactive challenges',
+      headline: 'Working with brands to create fun, interactive challenges',
       includeRegisterButton: false,
     },
   };
