@@ -2,15 +2,15 @@
     
 ## About Challenge Accepted
 
-Challenge Accepted is a new free app that helps people stay motivated and keep going with all their challenges from 30-day fitness challenges, reading lists, creating new habits and more.  
+The Challenge Accepted app helps people stay motivated and keep going with all their personal challenges from 30-day health & fitness, reading lists, creating new habits and more.  
 
 We are on a mission to give people the inspiration and tools to complete personal challenges, no matter how big or small. <br/>
 
 There are hundreds of challenges on the app for people to start immediately from: <br/><br/>
 **Health & Fitness challenges 🤸‍♀️**<br/><br/>
-including a 30-day squat challenge to a 30-day walking challenge<br/><br/>
+including a 30-day squat challenges to a 30-day walking challenges<br/><br/>
 **Reading challenges 📚**<br/><br/>
-including books to read by inspirational women to 12 books I'm going to read this year<br/><br/>
+including books to read by inspirational women to creating your own reading list<br/><br/>
 **Challenges to keep you entertained at home 🧘**<br/><br/>
 including film and TV watchlists to crafting ideas to try<br/><br/>
 **Challenges to help you start new habits 🌱**<br/><br/>

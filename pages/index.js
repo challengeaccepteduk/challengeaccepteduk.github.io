@@ -4,7 +4,7 @@ const featuresContent = [
   {
     image: '/Home/Discover-iPhone.png',
     heading: 'Discover challenges 👀',
-    text: 'Start a new challenge from 30-day health & fitness challenges, reading lists, creating new habits & more.',
+    text: 'Start new challenges including 30-day health & fitness, reading lists, creating new habits & more.',
   },
    {
       image: '/Home/Friends-iPhone.png',
@@ -19,7 +19,7 @@ const featuresContent = [
   {
     image: '/Home/Reminder-iPhone.png',
     heading: 'Set reminders ⏰',
-    text: 'Set reminders for your challenges to help keep you on track for a time and day that suits you.',
+    text: 'Get notification reminders to help keep you on track for a time and day that suits you.',
   },
 
 
