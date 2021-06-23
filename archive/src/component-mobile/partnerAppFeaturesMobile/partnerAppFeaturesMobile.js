@@ -41,7 +41,7 @@ const PartnerAppFeaturesMobile = () => {
           res.json().then(response => {
                 notification.open({
                   type: 'success',
-                  message: 'Success',
+                  message: 'Success!',
                   description: 'Thanks for registering your interest!',
                   duration: 5
                 });
