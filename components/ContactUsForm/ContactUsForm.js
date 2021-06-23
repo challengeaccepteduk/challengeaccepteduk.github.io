@@ -3,6 +3,7 @@ import { useRef, useState } from 'react';
 import Button from '../Button';
 
 import { heading, layout, label, input } from './ContactUsForm.module.css';
+import {API_BASE} from "../../constants/social";
 
 const ContactUsForm = () => {
   const [submissionStatus, setSubmissionStatus] = useState();
@@ -21,7 +22,7 @@ const ContactUsForm = () => {
     event.stopPropagation();
 
     try {
-      const response = await fetch('https://p6aap78qf4.execute-api.eu-west-1.amazonaws.com/preprod/interest', {
+      const response = await fetch(API_BASE + '/interest', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

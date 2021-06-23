@@ -4,6 +4,7 @@ import './homeEmailMobile.css'
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 import {notification} from 'antd';
+import {API_BASE} from "../../../../constants/social";
 
 const HomeEmailMobile = () => {
   const [validated, setValidated] = useState(false);
@@ -16,7 +17,7 @@ const HomeEmailMobile = () => {
       event.stopPropagation();
     } else {
       setValidated(true);
-      fetch('https://p6aap78qf4.execute-api.eu-west-1.amazonaws.com/preprod/interest', {
+      fetch(API_BASE + '/interest', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

@@ -3,6 +3,7 @@ import {Col, Container, Form, Row} from "react-bootstrap";
 import './contactFormMobile.css'
 import Button from "react-bootstrap/Button";
 import {notification} from "antd";
+import {API_BASE} from "../../../../constants/social";
 
 const ContactFormMobile = () => {
   const [validated, setValidated] = useState(false);
@@ -21,7 +22,7 @@ const ContactFormMobile = () => {
       event.stopPropagation();
     } else {
       setValidated(true);
-      fetch('https://p6aap78qf4.execute-api.eu-west-1.amazonaws.com/preprod/interest', {
+      fetch(API_BASE + '/interest', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

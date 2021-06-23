@@ -5,3 +5,4 @@ export const LINKEDIN_URL = 'https://www.linkedin.com/company/challenge-accepted
 export const PLAY_STORE = 'https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB'
 export const IOS_STORE = 'https://apps.apple.com/us/app/id1517580212'
 export const MEDIUM = 'https://medium.com/challenge-accepted'
+export const API_BASE = 'https://api.challengeacceptedapp.com/prod'

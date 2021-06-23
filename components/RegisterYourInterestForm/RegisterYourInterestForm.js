@@ -3,10 +3,11 @@ import { useRef, useState } from 'react';
 import Button from '../Button';
 
 import { heading, layout, label, input } from './RegisterYourInterestForm.module.css';
+import {API_BASE} from "../../constants/social";
 
 const registerEmailAddress = async (emailAddress) => {
   try {
-    const response = await fetch('https://p6aap78qf4.execute-api.eu-west-1.amazonaws.com/preprod/interest', {
+    const response = await fetch(API_BASE + '/interest', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
