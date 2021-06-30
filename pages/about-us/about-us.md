@@ -29,6 +29,8 @@ The Challenge Accepted app available is to download for free on both the <a href
 **✌  Feb 2021** &nbsp;  Challenge Accepted is a top 10 finalist in Natwest's Global Entrepreneurship pitch competition <br/><br/>
 **❤️ Mar 2021** &nbsp;  Challenge Accepted supports the British Heart Foundation Dechox fundraising challenge<br/><br/>
 **💚 Apr 2021** &nbsp;  Challenge Accepted supports Teenage Cancer Trust's 5,000 lunges fundraising challenge <br/><br/>
+**👏 May 2021** &nbsp;  Over 1,000 people have taken part in a fundraising challenges on Challenge Accepted <br/><br/>
+**🌱 Jun 2021** &nbsp;  Challenge Accepted hits 3,000 registered users <br/><br/>
 
 ## Challenge Accepted Values
 
