@@ -19,14 +19,10 @@ const PartnerWithUs = () => {
         <tr>
             <td><img src="/Partners/bhf-logo.png" alt="British Heart Foundation" /></td>
             <td><img src="/Partners/tct-logo.png" alt="Teenage Cancer Trust" /></td>
-            <td><img src="/Partners/sam-logo.png" alt="Samaritans" /></td>
-            <td><img src="/Partners/su2c-logo.png" alt="Stand Up To Cancer" /></td>
         </tr>
         <tr>
-            <td><img src="/Partners/wcrf-logo.png" alt="World Cancer Research Fund" /></td>
+            <td><img src="/Partners/su2c-logo.png" alt="Stand Up To Cancer" /></td>
             <td><img src="/Partners/shine-logo.png" alt="Shine Cancer Support" /></td>
-            <td><img src="/Partners/suppdogs-logo.png" alt="Support Dogs" /></td>
-            <td><img src="/Partners/redj-logo.png" alt="RED January" /></td>
         </tr>
         </tbody>
       </table>
