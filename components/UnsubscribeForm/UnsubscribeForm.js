@@ -8,6 +8,7 @@ import { useRouter } from 'next/router'
 
 const UnsubscribeForm = () => {
   const router = useRouter()
+  console.log(router.query)
   const [submissionStatus, setSubmissionStatus] = useState();
   const showSuccessMessage = submissionStatus === 'success';
   const showErrorMessage = submissionStatus === 'error';
