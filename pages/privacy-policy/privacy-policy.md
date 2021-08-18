@@ -13,7 +13,7 @@ Please read this privacy policy carefully as it will help you make informed deci
 1. [What information do we collect?](#1-what-information-do-we-collect)
 2. [How do we use your information?](#2-how-do-we-use-your-information)
 3. [Will your information be shared with anyone?](#3-will-your-information-be-shared-with-anyone)
-4. [Who will your information be shared with?](4-who-will-your-information-be-shared-with)
+4. [Who will your information be shared with?](#4-who-will-your-information-be-shared-with)
 5. [Do we use cookies and other tracking technologies?](#5-do-we-use-cookies-and-other-tracking-technologies)
 6. [How do we handle your social logins?](#6-how-do-we-handle-your-social-logins)
 7. [How long do we keep your information?](#7-how-long-do-we-keep-your-information)
