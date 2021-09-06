@@ -24,13 +24,12 @@ The Challenge Accepted app available is to download for free on both the <a href
 **🚀 Jul 2020** &nbsp;  Challenge Accepted app launched on Apple App Store and Google Play Store <br/><br/>
 **✌  Aug 2020** &nbsp;  Challenge Accepted won Small Business Sunday, a competition ran by BBC Dragon and Retail Entrepreneur Theo Paphitis <br/><br/>
 **🎮️ Sep 2020** &nbsp;  Challenge Accepted launches challenges supporting Stand Up to Cancer with their Game On fundraising campaign<br/><br/>
-**🧡 Dec 2021** &nbsp;  Challenge Accepted creates Shine Cancer Support Christmas fundraising challenges <br/><br/>
 **🏃️ Jan 2021** &nbsp;  Challenge Accepted supports RED January to help people stay active every day to look after their mental health<br/><br/>
 **✌  Feb 2021** &nbsp;  Challenge Accepted is a top 10 finalist in Natwest's Global Entrepreneurship pitch competition <br/><br/>
 **❤️ Mar 2021** &nbsp;  Challenge Accepted supports the British Heart Foundation Dechox fundraising challenge<br/><br/>
 **💚 Apr 2021** &nbsp;  Challenge Accepted supports Teenage Cancer Trust's 5,000 lunges fundraising challenge <br/><br/>
 **👏 May 2021** &nbsp;  Over 1,000 people have taken part in a fundraising challenges on Challenge Accepted <br/><br/>
-**🌱 Jul 2021** &nbsp;  Challenge Accepted hits 4,000+ registered users <br/><br/>
+**🌱 Aug 2021** &nbsp;  Challenge Accepted exceeds 5,000 registered users <br/><br/>
 
 ## Challenge Accepted Values
 
