@@ -7,47 +7,39 @@ The Challenge Accepted app helps people stay motivated and keep going with all t
 We are on a mission to give people the inspiration and tools to complete personal challenges, no matter how big or small. <br/>
 
 There are hundreds of challenges on the app for people to start immediately from: <br/><br/>
-**Health & Fitness challenges 🤸‍♀️**<br/><br/>
+**Health & Fitness challenges 🤸‍♀️**<br/>
 including a 30-day squat challenges to a 30-day walking challenges<br/><br/>
-**Reading challenges 📚**<br/><br/>
+**Reading challenges 📚**<br/>
 including books to read by inspirational women to creating your own reading list<br/><br/>
-**Challenges to keep you entertained at home 🧘**<br/><br/>
+**Challenges to keep you entertained at home 🧘**<br/>
 including film and TV watchlists to crafting ideas to try<br/><br/>
-**Challenges to help you start new habits 🌱**<br/><br/>
+**Challenges to help you start new habits 🌱**<br/>
 including cutting down on drinking to getting your 30mins of exercise a day<br/><br/>
 **Or people can create a challenge from scratch ✏️** <br/><br/>
 
 The Challenge Accepted app available is to download for free on both the <a href='https://apps.apple.com/us/app/id1517580212'>Apple App Store</a> and <a href='https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB'>Google Play Store</a>. <br/><br/>
 
-## Our Journey so far ##
+| Milestones  |  |
+| ------------- |:-------------:|
+| 🚀 Jul-20   | Challenge Accepted app launched on Apple App Store and Google Play Store |
+| ✌️ Aug-20  | Challenge Accepted won Small Business Sunday, a competition ran by BBC Dragon and Retail Entrepreneur Theo Paphitis  |
+| 🏃️ Jan-21  | Challenge Accepted supports RED January to help people stay active every day to look after their mental health    |
+| ✌️ Feb-21   | Challenge Accepted is a top 10 finalist in Natwest's Global Entrepreneurship pitch competition    |
+| ❤️ Mar-21   | Challenge Accepted supports the British Heart Foundation Dechox fundraising challenge    |
+| 💚 Apr-21   | Challenge Accepted supports Teenage Cancer Trust's 5,000 lunges fundraising challenge    |
+| 👏 May-21   | Over 1,000 people have taken part in a fundraising challenges on Challenge Accepted    |
+| 🌱 Aug-21   | Challenge Accepted hits over 5,000 registered users     |
 
-**🚀 Jul 2020** &nbsp;  Challenge Accepted app launched on Apple App Store and Google Play Store <br/><br/>
-**✌  Aug 2020** &nbsp;  Challenge Accepted won Small Business Sunday, a competition ran by BBC Dragon and Retail Entrepreneur Theo Paphitis <br/><br/>
-**🎮️ Sep 2020** &nbsp;  Challenge Accepted launches challenges supporting Stand Up to Cancer with their Game On fundraising campaign<br/><br/>
-**🏃️ Jan 2021** &nbsp;  Challenge Accepted supports RED January to help people stay active every day to look after their mental health<br/><br/>
-**✌  Feb 2021** &nbsp;  Challenge Accepted is a top 10 finalist in Natwest's Global Entrepreneurship pitch competition <br/><br/>
-**❤️ Mar 2021** &nbsp;  Challenge Accepted supports the British Heart Foundation Dechox fundraising challenge<br/><br/>
-**💚 Apr 2021** &nbsp;  Challenge Accepted supports Teenage Cancer Trust's 5,000 lunges fundraising challenge <br/><br/>
-**👏 May 2021** &nbsp;  Over 1,000 people have taken part in a fundraising challenges on Challenge Accepted <br/><br/>
-**🌱 Aug 2021** &nbsp;  Challenge Accepted exceeds 5,000 registered users <br/><br/>
+<br/>
 
-## Challenge Accepted Values
+| Values |  |
+| ------------- |:-------------:|
+| Passionate   | We are passionate about our product, passionate about finishing what we start, and passionate about trying something new.|
+| Inclusive   | We host a huge breadth of challenges on the app so there’s something for everyone.  |
+| Sustainable   | We are committed to working efficiently and ethically, we are a completely online based company.     |
+| Clear   | We streamline everything we do, creating the simple processes for both us and Challenge Accepted users.    |
 
-**Passionate**
 
-We are passionate about our product, passionate about finishing what we start, and passionate about trying something new. We want to help people explore their passions from travel, fitness, reading, sports, food, and more. 
-
-**Sustainable**
-
-We are committed to working efficiently and ethically, we are a completely online based company - no paper, no office, no commute. 
-
-**Inclusive**
-
-We host a huge breadth of challenges on the app so there’s something for everyone.
-
-**Simple**
-
-We streamline everything we do, creating the simple processes for both us and Challenge Accepted users.
 
 ## Our people
 **Steph Mandeville**<br/>
