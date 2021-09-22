@@ -19,9 +19,9 @@ In the last 12 months, we've had over 2,000 people participate in virtual fundra
 
 |Charities supported|
 | ------------- |:-------------:|:-------------:|
-| ![test](/public/Partners/bhf-logo.png "This is a sample image.")  | ![test](/Partners/tct-logo.png "This is a sample image.") | 
-| ![test](/public/Partners/su2c-logo.png "This is a sample image.")  | ![test](/public/Partners/shine-logo.png "This is a sample image.")  |
-| ![test](/public/Partners/sam-logo.png "This is a sample image.") | ![test](/public/Partners/suppdogs-logo.png "This is a sample image.") |
+| ![British Heart Foundation](/Partners/bhf-logo.png "British Heart Foundation")  | ![Teenage Cancer Trust](/Partners/tct-logo.png "Teenage Cancer Trust") | 
+| ![Stand Up To Cancer](/Partners/su2c-logo.png "Stand Up To Cancer.")  | ![Shine Cancer Support](/Partners/shine-logo.png "Shine Cancer Support")  |
+| ![Samaritans](/Partners/sam-logo.png "Samaritans.") | ![Support Dogs](/Partners/suppdogs-logo.png "Support Dogs") |
 
 We can support UK charities by hosting fundraising events on the app to help participants keep track and stay motivated throughout the campaign.
 
