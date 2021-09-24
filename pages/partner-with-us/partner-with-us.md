@@ -11,7 +11,7 @@ We can work with you to create an engaging branded challenge on the app that's f
 
 🎯 Target people based on their interests, not demographics
 
-To find out more about branded challenges and to discuss how we can support your marketing campaign, please [get in touch](/pages/contact-us).
+To find out more about branded challenges and to discuss how we can support your marketing campaign, please <a href="/contact-us" className={link}>get in touch.</a>
 
 ## Supporting UK charities
 
@@ -25,4 +25,4 @@ In the last 12 months, we've had over 2,000 people participate in virtual fundra
 
 We can support UK charities by hosting fundraising events on the app to help participants keep track and stay motivated throughout the campaign.
 
-If you are a registered UK charity please [get in touch](/pages/contact-us) with us to see how we can support your virtual fundraising challenges.
+If you are a registered UK charity please <a href="/contact-us" className={link}>get in touch</a> with us to see how we can support your virtual fundraising challenges.

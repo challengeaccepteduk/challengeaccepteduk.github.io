@@ -3,6 +3,8 @@ import { Parser } from 'html-to-react';
 import markdownToHtml from '../../lib/markdown-to-html';
 import Content from '../../components/Content';
 
+import Link from 'next/link';
+
 const PartnerWithUs = ({ pageContent }) => {
   const parser = new Parser();
   return (
