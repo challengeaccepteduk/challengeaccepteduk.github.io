@@ -27,7 +27,7 @@ The Challenge Accepted app available is to download for free on both the <a href
 | ✌️ Feb-21   | Challenge Accepted is a top 10 finalist in Natwest's Global Entrepreneurship pitch competition    |
 | ❤️ Mar-21   | Challenge Accepted supports the British Heart Foundation Dechox fundraising challenge    |
 | 💚 Apr-21   | Challenge Accepted supports Teenage Cancer Trust's 5,000 lunges fundraising challenge    |
-| 👏 May-21   | Over 1,000 people have taken part in a fundraising challenges on Challenge Accepted    |
+| 👏 May-21   | Over 1,000 people have taken part in fundraising challenges on Challenge Accepted    |
 | 🌱 Aug-21   | Challenge Accepted hits over 5,000 registered users     |
 
 <br/>
@@ -37,7 +37,7 @@ The Challenge Accepted app available is to download for free on both the <a href
 | Passionate   | We are passionate about our product, passionate about finishing what we start, and passionate about trying something new.|
 | Inclusive   | We host a huge breadth of challenges on the app so there’s something for everyone.  |
 | Sustainable   | We are committed to working efficiently and ethically, we are a completely online based company.     |
-| Clear   | We streamline everything we do, creating the simple processes for both us and Challenge Accepted users.    |
+| Clear   | We streamline everything we do, creating simple processes for both us and Challenge Accepted users.    |
 
 
 
