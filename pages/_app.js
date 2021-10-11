@@ -6,6 +6,7 @@ import withGA from "next-ga";
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import PageContentWrapper from '../components/PageContentWrapper';
+import Safe from "react-safe"
 
 const CustomApp = ({ Component, pageProps }) => {
   const { seoTitle, seoDescription } = pageProps;
@@ -21,6 +22,7 @@ const CustomApp = ({ Component, pageProps }) => {
         <Component {...pageProps} />
       </PageContentWrapper>
       <Footer />
+      <Safe.script src="https://assets.seedrs.com/campaign-scripts/challengeaccepted-v1.js" />
     </>
   );
 };
