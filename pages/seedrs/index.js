@@ -4,7 +4,7 @@ import Router from 'next/router'
 
 const Seedrs = () => {
   useEffect(() => {
-        Router.push('https://www.seedrs.com/invest/launching-soon')
+        Router.push('https://www.seedrs.com/challengeaccepted/coming-soon')
   },[])
   return (
       <Content>
