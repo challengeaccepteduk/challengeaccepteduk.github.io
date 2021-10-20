@@ -5,6 +5,7 @@ import { useRouter } from 'next/router'
 
 function RedirectPage() {
   const router = useRouter()
+  console.log(router.route)
   if (typeof window !== 'undefined') {
     router.push('/')
   }

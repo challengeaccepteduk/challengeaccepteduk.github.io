@@ -2,6 +2,11 @@ module.exports = {
   async redirects() {
     return [
       {
+        source: '/seedrs',
+        destination: 'https://www.seedrs.com/invest/launching-soon',
+        permanent: true,
+      },
+      {
         source: '/challenge/:id',
         destination: '/',
         permanent: true,
