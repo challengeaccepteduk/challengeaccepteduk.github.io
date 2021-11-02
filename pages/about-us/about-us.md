@@ -27,8 +27,10 @@ The Challenge Accepted app available is to download for free on both the <a href
 | ✌️ Feb-21   | Challenge Accepted is a top 10 finalist in Natwest's Global Entrepreneurship pitch competition    |
 | ❤️ Mar-21   | Challenge Accepted supports the British Heart Foundation Dechox fundraising challenge    |
 | 💚 Apr-21   | Challenge Accepted supports Teenage Cancer Trust's 5,000 lunges fundraising challenge    |
-| 👏 May-21   | Over 1,000 people have taken part in fundraising challenges on Challenge Accepted    |
-| 🌱 Aug-21   | Challenge Accepted hits over 5,000 registered users     |
+| 🌱 Aug-21   | Over 2,000 people have taken part in fundraising challenges on Challenge Accepted     |
+| 🚀 Oct-21   | Challenge Accepted hits over 7,700+ registered users     |
+| 👀 Next   | The Challenge Accepted crowdfunding campaign launches on <a href='https://www.seedrs.com/challengeaccepted'>Seedrs</a>      |
+
 
 <br/>
 
