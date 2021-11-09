@@ -21,15 +21,15 @@ The Challenge Accepted app available is to download for free on both the <a href
 
 | Milestones  |  |
 | ------------- |:-------------:|
-| 🚀 Jul-20   | Challenge Accepted app launched on Apple App Store and Google Play Store |
+| 🚀 Jul-20   | Challenge Accepted app launched on <a href='https://apps.apple.com/us/app/id1517580212'>Apple App Store</a>  and <a href='https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB'>Google Play Store</a>  |
 | ✌️ Aug-20  | Challenge Accepted won Small Business Sunday, a competition ran by BBC Dragon and Retail Entrepreneur Theo Paphitis  |
 | 🏃️ Jan-21  | Challenge Accepted supports RED January to help people stay active every day to look after their mental health    |
 | ✌️ Feb-21   | Challenge Accepted is a top 10 finalist in Natwest's Global Entrepreneurship pitch competition    |
 | ❤️ Mar-21   | Challenge Accepted supports the British Heart Foundation Dechox fundraising challenge    |
 | 💚 Apr-21   | Challenge Accepted supports Teenage Cancer Trust's 5,000 lunges fundraising challenge    |
 | 🌱 Aug-21   | Over 2,000 people have taken part in fundraising challenges on Challenge Accepted     |
-| 🚀 Oct-21   | Challenge Accepted hits over 7,700+ registered users     |
-| 👀 Next   | The Challenge Accepted crowdfunding campaign launches on <a href='https://www.seedrs.com/challengeaccepted'>Seedrs</a>      |
+| 🚀 Nov-21   | Challenge Accepted hits over 8,100+ registered users     |
+| 👀 Now   | Challenge Accepted are crowdfunding on <a href='https://www.seedrs.com/challengeaccepted'>Seedrs</a>      |
 
 
 <br/>
