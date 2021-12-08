@@ -37,11 +37,6 @@ function App() {
               <Route path='/about'>
                 <About width={width}/>
               </Route>
-              {/*<Route path="/seeders"*/}
-              {/*       render={() => window.location = "https://www.seedrs.com/challengeaccepted/coming-soon"} />            */}
-              <Route path="/seeders">
-                <Redirect to={"https://www.seedrs.com/challengeaccepted/coming-soon"} />
-              </Route>
               <Route path='/partner'>
                 <Partners width={width}/>
               </Route>

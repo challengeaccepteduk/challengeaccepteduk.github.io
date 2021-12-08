@@ -21,7 +21,6 @@ const CustomApp = ({ Component, pageProps }) => {
         <Component {...pageProps} />
       </PageContentWrapper>
       <Footer />
-      <script src="https://assets.seedrs.com/campaign-scripts/challengeaccepted-v1.js" />
     </>
   );
 };

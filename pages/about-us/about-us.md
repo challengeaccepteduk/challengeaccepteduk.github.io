@@ -30,7 +30,6 @@ The Challenge Accepted app available is to download for free on both the <a href
 | 🌱 Aug-21   | Over 2,000 people have taken part in fundraising challenges on Challenge Accepted     |
 | 🚀 Nov-21   | Challenge Accepted hits over 8,400+ registered users     |
 | 🏆 Nov-21   | Challenge Accepted selected in the <a href='https://techround.co.uk/techround-100/78-challenge-accepted/'>TechRound 100</a> - UK's best startups and tech companies of 2021     |
-| 👀 Now   | Challenge Accepted are crowdfunding on <a href='https://www.seedrs.com/challengeaccepted'>Seedrs</a>      |
 
 
 <br/>
