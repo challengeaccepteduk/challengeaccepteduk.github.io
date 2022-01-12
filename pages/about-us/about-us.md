@@ -28,9 +28,8 @@ The Challenge Accepted app available is to download for free on both the <a href
 | ❤️ Mar-21   | Challenge Accepted supports the British Heart Foundation Dechox fundraising challenge    |
 | 💚 Apr-21   | Challenge Accepted supports Teenage Cancer Trust's 5,000 lunges fundraising challenge    |
 | 🌱 Aug-21   | Over 2,000 people have taken part in fundraising challenges on Challenge Accepted     |
-| 🚀 Nov-21   | Challenge Accepted hits over 8,400+ registered users     |
 | 🏆 Nov-21   | Challenge Accepted selected in the <a href='https://techround.co.uk/techround-100/78-challenge-accepted/'>TechRound 100</a> - UK's best startups and tech companies of 2021     |
-
+| 🚀 Jan-22   | Challenge Accepted hits over 10k+ registered users     |
 
 <br/>
 
