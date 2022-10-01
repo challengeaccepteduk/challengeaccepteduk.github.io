@@ -211,4 +211,4 @@ United Kingdom
 
 ### 15. How can you review, update, or delete the data we collect from you?
 
-Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please visit: Within Settings in the app. We will respond to your request within 30 days.
+Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, either email use at [info@challengeacceptedapp.com](mailto:info@challengeacceptedapp.com), and we will respond to your request within 30 days, or go to the settings page in the app and click the 'delete my account' option.
