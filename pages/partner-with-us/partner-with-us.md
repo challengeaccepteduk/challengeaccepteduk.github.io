@@ -3,7 +3,7 @@
 
 ## Supporting UK charities
 
-Since launch, we've had over 8,000 people take part virtual fundraising challenges on the Challenge Accepted app.
+Since launch, we've had over 12,000 people take part virtual fundraising challenges on the Challenge Accepted app.
 
 We support UK charities by hosting virtual fundraising events on the app to help participants keep track and stay motivated throughout the campaign.
 
@@ -16,14 +16,8 @@ If you are a registered UK charity <a href="/contact-us" className={link}>get in
 | ![Samaritans](/Partners/sam-logo.png "Samaritans.") | ![Support Dogs](/Partners/suppdogs-logo.png "Support Dogs") |
 
 
-## Coming soon - marketing campaigns on Challenge Accepted
+## Looking to discuss a partnership for your business?
 
-We can work with you to create an engaging branded challenge on the app that's focused on your customers having fun and taking on a challenge for something you are both passionate about.
+We've worked with the likes of Costa Book Awards to trial other themed challenges on the app and are always keen to test new ideas.
 
-🚀 Engage your audience with a bespoke challenge on the app
-
-🏷️ Help people complete their challenge with an offer for your brand
-
-🎯 Target people based on their interests, not demographics
-
-To find out more about branded challenges, <a href="/contact-us" className={link}>get in touch.</a>
+If you've got an idea for a branded-partnership <a href="/contact-us" className={link}>reach out to us</a>, we'd love to talk more. 
