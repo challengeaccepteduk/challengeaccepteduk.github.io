@@ -21,7 +21,6 @@ The Challenge Accepted app available is to download for free on both the <a href
 | ------------- |:-------------:|
 | 🚀 Jul-20   | Challenge Accepted app first launched on <a href='https://apps.apple.com/us/app/id1517580212'>Apple App Store</a>  and <a href='https://play.google.com/store/apps/details?id=com.challengeaccepted.challengeacceptedapp&hl=en_GB'>Google Play Store</a>  |
 | ✌️ Aug-20   | Challenge Accepted won Small Business Sunday, a competition ran by BBC Dragon and Retail Entrepreneur Theo Paphitis  |
-| 🏃️ Jan-21   | Challenge Accepted supports RED January to help people stay active every day to look after their mental health    |
 | ✌️ Feb-21   | Challenge Accepted is a top 10 finalist in Natwest's Global Entrepreneurship pitch competition    |
 | ❤️ Mar-21   | Challenge Accepted supports the British Heart Foundation Dechox fundraising challenge    |
 | 💚 Apr-21   | Challenge Accepted supports Teenage Cancer Trust's 5,000 lunges fundraising challenge    |
@@ -37,7 +36,7 @@ The Challenge Accepted app available is to download for free on both the <a href
 | Passionate   | We are passionate about our product, passionate about finishing what we start, and passionate about trying something new.|
 | Inclusive   | We host a huge breadth of challenges on the app so there’s something for everyone.  |
 | Sustainable   | We are committed to working efficiently and ethically, we are a completely online based company.     |
-| Clear   | We streamline everything we do, creating simple processes for both us and Challenge Accepted users.    |
+| Clear   | We streamline everything we do, creating simple processes for both us and our users.    |
 
 
 

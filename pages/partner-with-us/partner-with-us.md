@@ -3,7 +3,7 @@
 
 ## Supporting UK charities
 
-Since launch, we've had over 12,000 people take part virtual fundraising challenges on the Challenge Accepted app.
+Since launch, we've had over 13,000 people take part virtual fundraising challenges on the Challenge Accepted app.
 
 We support UK charities by hosting virtual fundraising events on the app to help participants keep track and stay motivated throughout the campaign.
 
@@ -14,7 +14,6 @@ If you are a registered UK charity <a href="/contact-us" className={link}>get in
 | ![British Heart Foundation](/Partners/bhf-logo.png "British Heart Foundation")  | ![Teenage Cancer Trust](/Partners/tct-logo.png "Teenage Cancer Trust") | 
 | ![Stand Up To Cancer](/Partners/su2c-logo.png "Stand Up To Cancer.")  | ![Shine Cancer Support](/Partners/shine-logo.png "Shine Cancer Support")  |
 | ![Samaritans](/Partners/sam-logo.png "Samaritans.") | ![Support Dogs](/Partners/suppdogs-logo.png "Support Dogs") |
-
 
 ## Looking to discuss a partnership for your business?
 
